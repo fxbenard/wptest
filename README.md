@@ -1,20 +1,19 @@
-[![WP Test](screenshot.png)](http://wptest.io)
+[![WP Test en Français](screenshot.png)](http://wptest.fxbenard.com)
 
 ## Description
 
-[WP Test](http://wptest.io/) fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
+[WP Test en Français](http://wptest.fxbenard.com/) est un ensemble fantastiquement exhaustif des données de test pour mesurer l'intégrité et les fonctionnalités de vos extensions et de vos thèmes WordPress.
 
-The foundation of these tests are derived from WordPress’ Theme Unit Test Codex data. It’s paired with lessons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
+Ce projet est la traduction, l'adaptation, l'amélioration du projet [WP Test](http://wptest.io/) crée par Michael Novotny.
 
-The word "comprehensive" was purposely left off this description. It's not. There will always be something new squarely scenario to test. That's where you come in. [Let us know](http://wptest.io/contact/) of a test we're not covering. We'd love to squash it.
+La base de ces tests est issue des données du codex [Theme Unit Test](http://codex.wordpress.org/Theme_Unit_Test) de WordPress. Ajoutez y les enseignements tirés de plusieurs années d'utilisation, de création de thèmes et d'extensions, des cas peu communs, vous obtenez un puissant cocktail de simulation de contenu d'utilisateur.
 
-Let’s make WordPress testing easier and resilient together.
 
 ## Installation
 
-Follow the steps below to import the WP Test data:
+Suivez les étapes suivantes pour importer les données de WP Test en Français :
 
-1. Download the [data](https://github.com/manovotny/wptest/archive/master.zip) from the repository.
+1. Téléchargez les [données](https://github.com/fxbenard/wptest/archive/master.zip) depuis le dépot.
 2. Unzip the download on your computer.
 3. Launch your WordPress site.
 4. Navigate to `Tools > Import` in the WordPress admin.
