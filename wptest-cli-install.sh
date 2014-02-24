@@ -1,17 +1,17 @@
 #!/bin/sh
 #
-# wptest.io Quick Install Script
-# http://wptest.io/
+# Installation Script de WPTest en français.
+# http://wptest.fxbenard.com/
 #
-# Note: This script assumes you have wp-cli installed.
+# Note: Ce script assume que vous avez wp-cli installé.
 ##########################################################
 
-# Get WordPress Path
-printf "Please provide the local path to your WordPress install: "
+# Récupérer le chemin WordPress
+printf "Veuillez indiquer le chemin en local de votre installation WordPress : "
 read WPPATH
 
-# Import WP TESTS
+# Importer WP TESTS
 cd $WPPATH
-curl -O https://raw.github.com/manovotny/wptest/master/wptest.xml
+curl -O https://raw2.github.com/fxbenard/wptest/master/wptest.xml
 wp import wptest.xml --authors=create
 rm wptest.xml
