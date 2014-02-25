@@ -10,10 +10,9 @@
 <!-- 3. Installez l'importateur "WordPress" dans la liste. -->
 <!-- 4. Activez et lancez l'importateur. -->
 <!-- 5. Choisissez et envoyez ce fichier via le formulaire de la page. -->
-<!-- 6. Vous devrez d'abord faire correspondre les auteurs de ce fichier d'exportation -->
-<!-- 6. You will first be asked to map the authors in this export file to users -->
-<!--    aux utilisateurs du site. Pour chaques auteurs vous pourrez choisir -->
-<!--    un utilisateur pre-existant ou d'en créer un nouveau. -->
+<!-- 6. Ne changez ou ne réassignez aucun auteur et cochez bien Télécharger et importer les fichiers joints -->
+<!--    Ne fermez pas la fenêtre/ onglet et ne partez pas de la page pendant l'importation. -->
+<!--    Cela peut-être un peu long, mais comme on entend souvent, plus c'est long plus c'est bon, non? -->
 <!-- 7. WordPress importera tous les articles, pages, commentaires, catégories, etc. -->
 <!--    contenu dans ce fichier dans votre site. -->
 
@@ -39,8 +38,8 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>fxbenard</wp:author_login><wp:author_email>fxb@wp-translations.org</wp:author_email><wp:author_display_name><![CDATA[FX Bénard]]></wp:author_display_name><wp:author_first_name><![CDATA[FX]]></wp:author_first_name><wp:author_last_name><![CDATA[Bénard]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>boiteaweb</wp:author_login><wp:author_email>julio@boiteaweb.fr</wp:author_email><wp:author_display_name><![CDATA[BoiteAWeb]]></wp:author_display_name><wp:author_first_name><![CDATA[Julio]]></wp:author_first_name><wp:author_last_name><![CDATA[Potier]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>3</wp:author_id><wp:author_login>jennybeaumont</wp:author_login><wp:author_email>emailme@jennybeaumont.com</wp:author_email><wp:author_display_name><![CDATA[Jenny Beaumont]]></wp:author_display_name><wp:author_first_name><![CDATA[Jenny]]></wp:author_first_name><wp:author_last_name><![CDATA[Beaumont]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>4</wp:author_id><wp:author_login>remicorson</wp:author_login><wp:author_email>remi@remicorson.com</wp:author_email><wp:author_display_name><![CDATA[Rémi Corson]]></wp:author_display_name><wp:author_first_name><![CDATA[Rémi]]></wp:author_first_name><wp:author_last_name><![CDATA[Corson]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>5</wp:author_id><wp:author_login>benjaminlupu</wp:author_login><wp:author_email>benjamin@benjaminlupu.com</wp:author_email><wp:author_display_name><![CDATA[Benjamin Lupu]]></wp:author_display_name><wp:author_first_name><![CDATA[Benjamin]]></wp:author_first_name><wp:author_last_name><![CDATA[Lupu]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>4</wp:author_id><wp:author_login>remicorson</wp:author_login><wp:author_email>remicorson@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Rémi Corson]]></wp:author_display_name><wp:author_first_name><![CDATA[Rémi]]></wp:author_first_name><wp:author_last_name><![CDATA[Corson]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>5</wp:author_id><wp:author_login>benjaminlupu</wp:author_login><wp:author_email>benjamin.lupu@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Benjamin Lupu]]></wp:author_display_name><wp:author_first_name><![CDATA[Benjamin]]></wp:author_first_name><wp:author_last_name><![CDATA[Lupu]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>6</wp:author_id><wp:author_login>gregoirenoyelle</wp:author_login><wp:author_email>hello@gregoirenoyelle.com</wp:author_email><wp:author_display_name><![CDATA[Grégoire Noyelle]]></wp:author_display_name><wp:author_first_name><![CDATA[Grégoire]]></wp:author_first_name><wp:author_last_name><![CDATA[Noyelle]]></wp:author_last_name></wp:author>
 		
 	<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename>alignement</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Alignement]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent l'image et l'alignement de texte.]]></wp:category_description></wp:category>
