@@ -4,28 +4,38 @@
 
 [WP Test en Français](http://wptest.fxbenard.com/) est un ensemble fantastiquement exhaustif des données de test pour mesurer l'intégrité et les fonctionnalités de vos extensions et de vos thèmes WordPress.
 
-Ce projet est la traduction, l'adaptation, l'amélioration du projet [WP Test](http://wptest.io/) crée par Michael Novotny.
+Ce projet est la traduction, l'adaptation, l'amélioration du projet [WP Test](http://wptest.io/) crée par [Michael Novotny](http://manovotny.com).
 
 La base de ces tests est issue des données du codex [Theme Unit Test](http://codex.wordpress.org/Theme_Unit_Test) de WordPress. Ajoutez y les enseignements tirés de plusieurs années d'utilisation, de création de thèmes et d'extensions, des cas peu communs, vous obtenez un puissant cocktail de simulation de contenu d'utilisateur.
 
 
 ## Installation
 
-Suivez les étapes suivantes pour importer les données de WP Test en Français :
+Suivez les étapes suivantes pour importer les données de WP Test en français :
 
-1. Téléchargez les [données](https://github.com/fxbenard/wptest/archive/master.zip) depuis le dépot.
-2. Unzip the download on your computer.
-3. Launch your WordPress site.
-4. Navigate to `Tools > Import` in the WordPress admin.
-5. Click on `WordPress` and install the [WordPress Importer](http://wordpress.org/extend/plugins/wordpress-importer/) plugin, if it's not already installed, and click `Activate Plugin & Run Importer` after the installation completes.
-6. Choose the `wptest.xml` file you extracted from the zip in Step 2 and click `Upload file and import`.
-7. On the next screen, do not change or reassign anything about the authors and make sure you check the `Download and import file attachments` box before you click `Submit`.
-8. Let the import process run until complete. *Do not close the browser tab / window or navigate away from page while importing.* You should see an `All done. Have fun!` message when the import is complete.
-8. Test away and please [contribute](http://wptest.io/contact/) any of tests cases you feel are missing.
+### Avec l'importateur de WordPress
 
-## Credit
+1. Téléchargez les [données](https://github.com/fxbenard/wptest/archive/master.zip) depuis le dépot GitHub.
+2. Décompressez le fichier sur votre ordinateur.
+3. Lancez votre site WordPress.
+4. Direction `Outils > Importer` dans votre administration de WordPress.
+5. Cliquez sur `WordPress` et installez l'extension [WordPress Importer](http://wordpress.org/extend/plugins/wordpress-importer/), si ce n'est déjà fait, et cliquez `Activer & Lancez l'mmportation` après l'installation terminée.
+6. Choisissez le fichier `wptest.xml` que vous avez extrait du zip à l'étape 2 and cliquez `Envoyer le fichier et importer`.
+7. Sur l'écran suivant, ne changez ou ne réassignez aucun auteur et cochez bien `Télécharger et importer les fichiers joints` avant de cliquez sur `Envoyer`.
+8. Laissez le processus d'importation s'effectuer entièrement. *Ne fermez pas la fenêtre/ onglet et ne partez pas de la page pendant l'importation.* Cela peut-être un peu long, mais comme on entend souvent, plus c'est long plus c'est bon, non? Vous devriez voir le message `Voilà c'est fait, amusez-vous !` à la fin de l'importation.
+8. Testez, testez et testez encore et surtout [contribuer](https://github.com/fxbenard/wptest) pour améliorer les tests.
+
+### Avec le script wp-cli
+
+1. Téléchargez les [données](https://github.com/fxbenard/wptest/archive/master.zip) depuis le dépot GitHub.
+2. Décompressez le fichier sur votre ordinateur.
+3. Utiliser le script wptest-cli-install.sh
+4. Et voilà les données sont installées.
+
+## Crédits
 
 * [Michael Novotny](http://manovotny.com)
+* [François-Xavier Bénard](http://fxbenard.com)
 
 ## License
 
