@@ -7206,7 +7206,7 @@ Multi ligne avec une référence d'auteur :
 <th></th>
 </tr>
 <tr>
-<td>Benjamin Lupu</td>
+<td><a href="http://benjaminlupu.net/">Benjamin Lupu</a></td>
 <td>1&nbsp;€</td>
 <td>Parce que c'est ce que Steve Job avait besoin comme salaire.</td>
 </tr>
@@ -8137,7 +8137,7 @@ Quelques trucs à vérifier ensuite.
 		<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[Rémi Corson]]></wp:comment_author>
-			<wp:comment_author_email>remi@remicorson.com</wp:comment_author_email>
+			<wp:comment_author_email>remicorson@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://remicorson.com/</wp:comment_author_url>
 			<wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
 			<wp:comment_date>2013-03-14 11:56:08</wp:comment_date>
@@ -8298,7 +8298,7 @@ Cela est généralement fait en utilisant le permalien de la date de l'article.]
 		<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[Rémi Corson]]></wp:comment_author>
-			<wp:comment_author_email>remi@remicorson.com</wp:comment_author_email>
+			<wp:comment_author_email>remicorson@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://remicorson.com</wp:comment_author_url>
 			<wp:comment_author_IP>59.167.157.3</wp:comment_author_IP>
 			<wp:comment_date>2012-09-03 10:18:04</wp:comment_date>
@@ -8323,7 +8323,7 @@ Multi ligne avec une référence d'auteur :
 <th></th>
 </tr>
 <tr class="odd">
-<td>Benjamin Lupu</td>
+<td><a href="http://benjaminlupu.net/">Benjamin Lupu</a></td>
 <td>1 €</td>
 <td>Parce que c'est ce que Steve Job avaient besoin comme salaire.</td>
 </tr>
@@ -8536,7 +8536,7 @@ Cela vous permet d'indiquer des <var>variables</var>.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
 			<wp:comment_author><![CDATA[Benjamin Lupu]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_email>benjamin.lupu@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://benjaminlupu.net/</wp:comment_author_url>
 			<wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
 			<wp:comment_date>2013-03-14 07:57:01</wp:comment_date>
@@ -8622,7 +8622,7 @@ Aussi un commentaire de l’auteur.]]></wp:comment_content>
 		<wp:comment>
 			<wp:comment_id>16</wp:comment_id>
 			<wp:comment_author><![CDATA[Benjamin Lupu]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_email>benjamin.lupu@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://benjaminlupu.net/</wp:comment_author_url>
 			<wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
 			<wp:comment_date>2013-03-14 08:12:58</wp:comment_date>
@@ -8877,7 +8877,7 @@ Il y a différentes façons de les afficher.
 		<wp:comment>
 			<wp:comment_id>29</wp:comment_id>
 			<wp:comment_author><![CDATA[Rémi Corson]]></wp:comment_author>
-			<wp:comment_author_email>remi@remicorson.com</wp:comment_author_email>
+			<wp:comment_author_email>remicorson@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://remicorson.com</wp:comment_author_url>
 			<wp:comment_author_IP>146.214.103.251</wp:comment_author_IP>
 			<wp:comment_date>2010-06-11 15:27:04</wp:comment_date>
@@ -10062,7 +10062,7 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<wp:comment>
 			<wp:comment_id>31</wp:comment_id>
 			<wp:comment_author><![CDATA[Benjamin Lupu]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_email>benjamin.lupu@gmail.com</wp:comment_author_email>
 			<wp:comment_author_url>http://benjaminlupu.net/</wp:comment_author_url>
 			<wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
 			<wp:comment_date>2013-03-14 13:07:19</wp:comment_date>
@@ -10283,7 +10283,7 @@ Multi ligne avec une référence d'auteur :
 <th></th>
 </tr>
 <tr class="odd">
-<td>Benjamin Lupu</td>
+<td><a href="http://benjaminlupu.net/">Benjamin Lupu</a></td>
 <td>1 €</td>
 <td>Parce que c'est ce que Steve Job avaient besoin comme salaire.</td>
 </tr>
