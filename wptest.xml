@@ -5027,7 +5027,7 @@
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1435/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Posts in this category test various Twitter features.]]></content:encoded>
+		<content:encoded><![CDATA[Les articles de cette catégorie testent les différentes fonctionnalités de Twitter.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1435</wp:post_id>
 		<wp:post_date>2014-02-24 16:59:05</wp:post_date>
@@ -10889,9 +10889,9 @@ Cet article teste une image à la une verticale.]]></content:encoded>
 		<dc:creator><![CDATA[gregoirenoyelle]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1027</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://twitter.com/carlsmith/status/258214236126322689
+		<content:encoded><![CDATA[https://twitter.com/thierrypigot/status/438467934231756801
 
-Cet article teste les fonctionnalités d'intégration de <a title="Twitter Embeds" href="http://en.support.wordpress.com/twitter/twitter-embeds/" target="_blank">Twitter</a>.]]></content:encoded>
+Cet article teste les fonctionnalités d'intégration de <a title="Intégration de Twitter (en)" href="http://en.support.wordpress.com/twitter/twitter-embeds/" target="_blank">Twitter</a>.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1027</wp:post_id>
 		<wp:post_date>2013-03-15 15:47:16</wp:post_date>
@@ -10926,7 +10926,7 @@ Cet article teste les fonctionnalités d'intégration de <a title="Twitter Embed
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_7a5b8e2eb5087d077822d7bd6519cf69</wp:meta_key>
-			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" width="474"><p>Doing what you “know” locks you in a prison of the past. Uncertainty is the path to an innovative future.</p>&mdash; Carl Smith (@carlsmith) <a href="https://twitter.com/carlsmith/statuses/258214236126322689">October 16, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" width="474"><p>Celui qui n’a pas d’objectifs ne risque pas de les atteindre" - Sun Tzu - L’art de la guerre -</p>&mdash; Thierry Pigot (@thierrypigot) <a href="https://twitter.com/thierrypigot/status/438467934231756801">February 25, 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_old_slug</wp:meta_key>
@@ -10950,7 +10950,7 @@ Cet article teste les fonctionnalités d'intégration de <a title="Twitter Embed
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_7a5b8e2eb5087d077822d7bd6519cf69</wp:meta_key>
-			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" width="474"><p>Doing what you “know” locks you in a prison of the past. Uncertainty is the path to an innovative future.</p>&mdash; Carl Smith (@carlsmith) <a href="https://twitter.com/carlsmith/statuses/258214236126322689">October 16, 2012</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<blockquote class="twitter-tweet" width="474"><p>Celui qui n’a pas d’objectifs ne risque pas de les atteindre" - Sun Tzu - L’art de la guerre -</p>&mdash; Thierry Pigot (@thierrypigot) <a href="https://twitter.com/thierrypigot/status/438467934231756801">February 25, 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_old_slug</wp:meta_key>
