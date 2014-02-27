@@ -11095,25 +11095,78 @@ Il y a quelques trucs à vérifier :
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.fxbenard.com/?p=1419</guid>
 		<description></description>
-		<content:encoded><![CDATA[Cet article utilise la syntaxe Markdown. Installez <a href="http://wordpress.org/plugins/jetpack/">Jetpack</a> ou <a href="http://wordpress.org/plugins/wp-markdown/">WP-Markdown</a>, activez le module "Markdown" et admirez le rendu. Bluffant, non !
+		<content:encoded><![CDATA[Cet article utilise la syntaxe Markdown. Installez Jetpack ou WP-Markdown, activez le module « Markdown » et admirez le rendu. Bluffant, non !
 
 <h2>Philosophie</h2>
 
-Markdown a été conçu pour être aussi facile à lire et à écrire que possible. La lisibilité, cependant, prime devant tout le reste. Un document formaté selon Markdown devrait pouvoir être publié comme tel, en texte, sans donner l’impression qu’il a été marqué par des balises ou des instructions de formatage. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte vers HTML existants — incluant <a title="Google" href="http://google.com/">Setext</a>, <a title="Yahoo Search" href="http://fr.search.yahoo.com/">atx</a>, <a title="Bing Search" href="http://bing.com/">Textile</a>, <a href="http://docutils.sourceforge.net/rst.html">reStructuredText</a>, <a href="http://www.triptico.com/software/grutatxt.html">Grutatext</a>, et <a href="http://ettext.taint.org/doc/">EtText</a> -- la source d’inspiration principale de la syntaxe Markdown est le format du courrier électronique en mode texte. À cette fin, la syntaxe de Markdown est constituée entièrement de caractères de ponctuation, des caractères choisis soigneusement afin que leur apparence évoque la signification donnée par la syntaxe. Par exemple, des astérisques placés autour d’un mot donnent l’impression que l’on met <em>l’emphase</em> sur ce mot. Les listes dans Markdown ressemblent à.. des listes, évidemment. Même les blocs de citation ressemblent à des passages de texte cités, en supposant que vous ayez déjà envoyé ou reçu du courrier électronique.
+<code>## Philosophie</code>
+
+Markdown a été conçu pour être aussi facile à lire et à écrire que possible. La lisibilité, cependant, prime devant tout le reste. Un document formaté selon Markdown devrait pouvoir être publié comme tel, en texte, sans donner l’impression qu’il a été marqué par des balises ou des instructions de formatage. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte vers HTML existants — incluant <a href="http://docutils.sourceforge.net/mirror/setext.html">Setext</a>, <a href="http://www.aaronsw.com/2002/atx/">atx</a>, <a href="http://textism.com/tools/textile/">Textile</a>, <a href="http://docutils.sourceforge.net/rst.html">reStructuredText</a>, <a href="http://www.triptico.com/software/grutatxt.html">Grutatext</a>, et <a href="http://ettext.taint.org/doc/">EtText</a> — la source d’inspiration principale de la syntaxe Markdown est le format du courrier électronique en mode texte.
+
+<pre><code>incluant [Setext] [1], [atx] [2], [Textile] [3], [reStructuredText] [4],[Grutatext] [5], et [EtText] [6] — la source d’inspiration principale de la syntaxe Markdown est le format du courrier électronique en mode texte.
+
+[1]: http://docutils.sourceforge.net/mirror/setext.html
+[2]: http://www.aaronsw.com/2002/atx/
+[3]: http://textism.com/tools/textile/
+[4]: http://docutils.sourceforge.net/rst.html
+[5]: http://www.triptico.com/software/grutatxt.html
+[6]: http://ettext.taint.org/doc/
+</code></pre>
+
+À cette fin, la syntaxe de Markdown est constituée entièrement de caractères de ponctuation, des caractères choisis soigneusement afin que leur apparence évoque la signification donnée par la syntaxe. Par exemple, des astérisques placés autour d’un mot donnent l’impression que l’on met l’emphase sur ce mot. Les listes dans Markdown ressemblent à.. des listes, évidemment. Même les blocs de citation ressemblent à des passages de texte cités, en supposant que vous ayez déjà envoyé ou reçu du courrier électronique.
 
 <h2>HTML intercalé</h2>
 
-La syntaxe de Markdown sert un objectif : être utilisée comme format d’écriture sur le web. Markdown n’est pas un remplacement pour le HTML, ni même près de l’être. Sa syntaxe est petite et correspond en fait à un très petit sous-ensemble du HTML. L’idée n’est pas de créer une syntaxe qui rend plus facile l’insertion de balises HTML. Selon moi, ces balises sont déjà faciles à insérer. L’idée derrière Markdown est de faciliter la lecture, l’écriture et l’édition du texte en prose. L'HTML est un format de <em>publication</em>, Markdown est un format <em>d’écriture</em>. C’est pour cette raison que Markdown s’adresse uniquement à ce qui peut être transmis par du texte. Pour n’importe quelle fonction qui n’est pas couverte par la syntaxe de Markdown, vous utilisez directement une balise HTML. Il n’y a pas de raison de la précéder ou de la délimiter par des marqueurs spéciaux indiquant le passage de la syntaxe Markdown au HTML; vous écrivez tout simplement la balise là où vous la voulez. Les seules restrictions sont que les éléments HTML représentant un bloc de texte — c’est à dire, etc.. -- doivent être séparés du contenu environnant par des lignes vides, et les balises de début et de fin ne doivent pas êtres indentées avec des tabulations ou des espaces. Markdown est assez intelligent pour ne pas ajouter des balises supplémentaires (et indésirables) autour des éléments de bloc. Par exemple, pour ajouter un tableau HTML à un article écrit avec Markdown : Ceci est un paragraphe régulier. Ceci est un autre paragraphe régulier. Notez que le formatage Markdown n’est pas appliqué à l’intérieur des balises d’élément de blocs HTML. C’est à dire que vous ne pouvez pas appliquer de <em>l'emphase</em> selon la syntaxe Markdown à l’intérieur d’un bloc HTML. Les éléments délimitant une étendue de texte — comme &lt;cite&gt; ou &lt;del&gt;  — peuvent être utilisés n’importe où dans un paragraphe, dans l’élément d’une liste ou dans un titre. Si vous voulez, vous pouvez même utiliser des balises HTML à la place du format Markdown; par exemple si vous préférez utiliser la balise HTML &lt;a&gt; ou &lt;img alt="" /&gt; au lieu de la syntaxe Markdown pour les liens ou les images, faites-le. Contrairement aux éléments de bloc, la syntaxe Markdown est traitée à l’intérieur des balises étendue de texte.
+<code>## HTML intercalé</code>
+
+La syntaxe de Markdown sert un objectif : être utilisée comme format d’écriture sur le web.
+
+Markdown n’est pas un remplacement pour le HTML, ni même près de l’être. Sa syntaxe est petite et correspond en fait à un très petit sous-ensemble du HTML. L’idée n’est pas de créer une syntaxe qui rend plus facile l’insertion de balises HTML. Selon moi, ces balises sont déjà faciles à insérer. L’idée derrière Markdown est de faciliter la lecture, l’écriture et l’édition du texte en prose. L’HTML est un format de publication, Markdown est un format d’écriture. C’est pour cette raison que Markdown s’adresse uniquement à ce qui peut être transmis par du texte.
+
+Pour n’importe quelle fonction qui n’est pas couverte par la syntaxe de Markdown, vous utilisez directement une balise HTML. Il n’y a pas de raison de la précéder ou de la délimiter par des marqueurs spéciaux indiquant le passage de la syntaxe Markdown au HTML; vous écrivez tout simplement la balise là où vous la voulez.
+
+Les seules restrictions sont que les éléments HTML représentant un bloc de texte — c’est à dire, <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;pre&gt;</code>, <code>&lt;p&gt;</code>, etc.. — doivent être séparés du contenu environnant par des lignes vides, et les balises de début et de fin ne doivent pas êtres indentées avec des tabulations ou des espaces. Markdown est assez intelligent pour ne pas ajouter des balises supplémentaires (et indésirables) autour des éléments de bloc.
+
+Par exemple, pour ajouter un tableau HTML à un article écrit avec Markdown :
+
+Ceci est un paragraphe régulier.
+
+<table>
+ <tr>
+  <td>Foo</td>
+ </tr>
+</table>
+
+Ceci est un autre paragraphe régulier.
+
+Notez que le formatage Markdown n’est pas appliqué à l’intérieur des balises d’élément de blocs HTML. C’est à dire que vous ne pouvez pas appliquer de l’emphase selon la syntaxe Markdown à l’intérieur d’un bloc HTML.
+
+Les éléments délimitant une étendue de texte — comme <code>&lt;cite&gt;</code> ou <code>&lt;del&gt;</code> — peuvent être utilisés n’importe où dans un paragraphe, dans l’élément d’une liste ou dans un titre. Si vous voulez, vous pouvez même utiliser des balises HTML à la place du format Markdown; par exemple si vous préférez utiliser la balise HTML <code>&lt;a&gt;</code> ou <code>&lt;img/&gt;</code> au lieu de la syntaxe Markdown pour les liens ou les images, faites-le.
+
+Contrairement aux éléments de bloc, la syntaxe Markdown est traitée à l’intérieur des balises étendue de texte.
 
 <h2>Échappement automatique des caractères spéciaux</h2>
 
-En HTML, il y a deux caractères qui demandent un traitement spécial : &lt; et &amp;. Les chevrons ouvrants sont utilisés pour débuter les balises ; les esperluètes indiquent une entité HTML. Si vous voulez les utiliser en tant que caractères littéraux, vous devez les échapper avec des entités, c’est à dire que vous devez écrire <code>&amp;lt;</code> et <code>&amp;amp;</code>.
+<code>## Échappement automatique des caractères spéciaux</code>
+
+En HTML, il y a deux caractères qui demandent un traitement spécial : <code>&lt;</code> et <code>&amp;</code>. Les chevrons ouvrants sont utilisés pour débuter les balises ; les esperluettes indiquent une entité HTML. Si vous voulez les utiliser en tant que caractères littéraux, vous devez les échapper avec des entités, c’est à dire que vous devez écrire <code>&amp;lt;</code>, et
+<code>&amp;amp;</code>.
 
 <h2>Paragraphes et saut de ligne</h2>
 
-Un paragraphe est simplement une ou plusieurs lignes consécutives de texte, séparées par une ou plusieurs lignes vides. (Une ligne contenant uniquement des espaces ou des tabulations est considérée vide.) Les paragraphes ne doivent normalement pas êtres indentés par des espaces ou des tabulations. La règle « une ou plusieurs lignes consécutives de texte » implique que Markdown supporte les sauts de ligne manuels à l’intérieur des paragraphes. Ceci diffère beaucoup de la plupart des autres convertisseurs de texte vers HTML (incluant l’option « Convertir les sauts de ligne » de MovableType) qui traduisent chaque saut de ligne à l’intérieur d’un paragraphe par la balise &lt;div&gt;&lt;cite&gt;&lt;del&gt;&lt;a&gt;. Si vous voulez vraiment insérer une balise de saut de ligne en utilisant Markdown, vous n’avez qu’à terminer la ligne par deux espaces, ou plus, puis taper « retour ». Oui, ceci nécessite un peu plus d’effort pour créer un , mais une règle plus simple dans le style de « chaque saut de ligne correspond à un &lt;br /&gt; » ne fonctionnerait pas bien pour Markdown. La syntaxe des blocs de citation et des listes à plusieurs paragraphes fonctionne mieux — tout en étant plus lisible — quand vous formatez vos paragraphes avec un saut de ligne à la fin de chaque ligne.
+<code>## Paragraphes et saut de ligne</code>
+
+Un paragraphe est simplement une ou plusieurs lignes consécutives de texte, séparées par une ou plusieurs lignes vides. (Une ligne contenant uniquement des espaces ou des tabulations est considérée vide.) Les paragraphes ne doivent normalement pas êtres indentés par des espaces ou des tabulations.
+
+La règle « une ou plusieurs lignes consécutives de texte » implique que Markdown supporte les sauts de ligne manuels à l’intérieur des paragraphes. Ceci diffère beaucoup de la plupart des autres convertisseurs de texte vers HTML (incluant l’option « Convertir les sauts de ligne » de MovableType) qui traduisent chaque saut de ligne à l’intérieur d’un paragraphe par la balise <code>&lt;div&gt;</code> <code>&lt;cite&gt;</code> <code>&lt;del&gt;</code> <code>&lt;a&gt;</code>.
+
+Si vous voulez vraiment insérer une balise de saut de ligne <code>&lt;br /&gt;</code> en utilisant Markdown, vous n’avez qu’à terminer la ligne par deux espaces, ou plus, puis taper « entrée ».
+
+Oui, ceci nécessite un peu plus d’effort pour créer un <code>&lt;br /&gt;</code>, mais une règle plus simple dans le style de « chaque saut de ligne correspond à un <code>&lt;br /&gt;</code> ne fonctionnerait pas bien pour Markdown. La syntaxe des blocs de citation et des listes à plusieurs paragraphes fonctionne mieux — tout en étant plus lisible — quand vous formatez vos paragraphes avec un saut de ligne à la fin de chaque ligne.
 
 <h2>Titres</h2>
+
+<code>## Titres</code>
 
 Markdown supporte deux syntaxes pour les titres, Setext et atx. Les titres de style Setext sont « soulignés » en utilisant le symbole égal (pour le premier niveau) et des tirets (pour le second niveau). Par exemple :
 
@@ -11121,7 +11174,13 @@ Markdown supporte deux syntaxes pour les titres, Setext et atx. Les titres de st
 
 <h2>Titre de niveau 2 (balise H2)</h2>
 
-N’importe quelle longueur de soulignement avec des = ou des - fonctionne. Les titres de style atx sont représentés par entre un et six dièses (#) au début de la ligne, représentant les titres de niveau 1 à 6. Par exemple :
+<pre><code>Titre de niveau 1 (balise H1)
+=============
+Titre de niveau 2 (balise H2)
+-------------
+</code></pre>
+
+N’importe quelle longueur de soulignement avec des = ou des – fonctionne. Les titres de style atx sont représentés par entre un et six dièses (#) au début de la ligne, représentant les titres de niveau 1 à 6. Par exemple :
 
 <h1>Titre de niveau 1</h1>
 
@@ -11129,158 +11188,252 @@ N’importe quelle longueur de soulignement avec des = ou des - fonctionne. Les 
 
 <h6>Titre de niveau 6</h6>
 
-Facultativement, vous pouvez « fermer » les titres de style atx. C’est purement esthétique -- faites-le si vous trouvez que c’est plus beau. Le nombre de dièses de fermeture n’a pas besoin de correspondre au nombre utilisé au début l’entête. (Le nombre de dièses ouvrant détermine le niveau du titre.) :
+<pre><code># Titre de niveau 1
+## Titre de niveau 2
+###### Titre de niveau 6
+</code></pre>
 
-<h1>Titre de niveau 1</h1>
+Facultativement, vous pouvez « fermer » les titres de style atx. C’est purement esthétique — faites-le si vous trouvez que c’est plus beau. Le nombre de dièses de fermeture n’a pas besoin de correspondre au nombre utilisé au début l’entête. (Le nombre de dièses ouvrant détermine le niveau du titre.) :
 
-<h2>Titre de niveau 2</h2>
-
-<h3>Titre de niveau 3</h3>
+<pre><code># Titre de niveau 1 #
+## Titre de niveau 2 ##
+###### Titre de niveau 6 ##
+</code></pre>
 
 <h2>Blocs de citation</h2>
 
-Comme pour le courrier électronique, Markdown utilise le caractère &gt; pour délimiter les blocs de citation. Si vous êtes familier avec le format de citation du courrier électronique, alors vous savez comment créer un bloc de citation avec Markdown. Le résultat est plus joli si le texte est écrit avec des sauts de ligne manuels et un &gt; au début de chaque ligne :
+<code>## Blocs de citation</code>
 
-<blockquote>Ceci est un bloc de citation avec deux paragraphes. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.</blockquote>
+Comme pour le courrier électronique, Markdown utilise le caractère <code>&gt;</code> pour délimiter les blocs de citation. Si vous êtes familier avec le format de citation du courrier électronique, alors vous savez comment créer un bloc de citation avec Markdown. Le résultat est plus joli si le texte est écrit avec des sauts de ligne manuels et un <code>&gt;</code> au début de chaque ligne :
 
-Markdown vous permet cependant d’être paresseux et de n’écrire qu’un seul &gt; au début de la première ligne d’un paragraphe à sauts de ligne manuels :
+<blockquote>
+  Ceci est un bloc de citation avec deux paragraphes. 
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+  Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+  
+  Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+  Suspendisse id sem consectetuer libero luctus adipiscing.
+</blockquote>
 
-<blockquote>Ceci est un bloc de citation avec deux paragraphes. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.</blockquote>
+<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes. 
+&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 
 
-Les blocs de citation peuvent être imbriqués (c’est à dire qu’on a un bloc de citation à l’intérieur d’un autre bloc de citation) en ajoutant des niveaux additionnels de &gt; :
+&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+&gt;Suspendisse id sem consectetuer libero luctus adipiscing.
+</code></pre>
 
-<blockquote>Ceci est le premier niveau de citation.
-<blockquote>Ceci est un bloc de citation imbriqué.</blockquote>
-Retour au premier niveau.</blockquote>
+Markdown vous permet cependant d’être paresseux et de n’écrire qu’un seul <code>&gt;</code> au début de la première ligne d’un paragraphe à sauts de ligne manuels :
+
+<blockquote>
+  Ceci est un bloc de citation avec deux paragraphes. 
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+  Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+  
+  Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+  Suspendisse id sem consectetuer libero luctus adipiscing.
+</blockquote>
+
+<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes. 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 
+
+&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+Suspendisse id sem consectetuer libero luctus adipiscing.
+</code></pre>
+
+Les blocs de citation peuvent être imbriqués (c’est à dire qu’on a un bloc de citation à l’intérieur d’un autre bloc de citation) en ajoutant des niveaux additionnels de <code>&gt;</code> :
+
+<blockquote>
+  Ceci est le premier niveau de citation.
+  
+  <blockquote>
+    Ceci est un bloc de citation imbriqué.
+  </blockquote>
+  
+  Retour au premier niveau.
+</blockquote>
+
+<pre><code>&gt; Ceci est le premier niveau de citation.
+&gt;
+&gt; &gt; Ceci est un bloc de citation imbriqué.
+&gt;
+&gt; Retour au premier niveau.
+</code></pre>
 
 Les blocs de citation peuvent contenir d’autres éléments de Markdown, comme des titres, des listes et des blocs de code :
 
 <blockquote>
-<h2>Ceci est un titre.</h2>
-<ol>
-    <li>Ceci est le premier élément d'une liste.</li>
-    <li>Ceci est le second élément d'une liste.</li>
-</ol>
-Voici un exemple de code :
-<blockquote>return shell_exec("echo $input | $markdown_script");</blockquote>
+  <h2>Ceci est un titre.</h2>
+  
+  <ol>
+  <li>Ceci est le premier élément d’une liste.</li>
+  <li>Ceci est le second élément d’une liste.</li>
+  </ol>
+  
+  Voici un exemple de code :
+  
+  return shell_exec(« echo $input | $markdown_script »);
 </blockquote>
+
+<pre><code>&gt;## Ceci est un titre.
+&gt;
+&gt; 1. Ceci est le premier élément d’une liste.
+&gt; 2. Ceci est le second élément d’une liste.
+&gt;
+    &gt; Voici un exemple de code :
+    &gt;
+    &gt;    return shell_exec(« echo $input | $markdown_script »);
+</code></pre>
 
 Un éditeur de texte qui se respecte devrait permettre facilement de créer des blocs de citations comme dans un e-mail. Par exemple, avec BBEdit, vous pouvez sélectionner du texte et choisir «Augmenter le niveau de citation» dans le menu Texte.
 
 <h2>Listes</h2>
 
-Markdown supporte les listes ordonnées (numérotées) et non-ordonnées (à puces). Les listes non-ordonnées utilisent l’astérisque, le plus, ou encore le tiret -- de façon tout à fait interchangeable -- en tant que marqueur de liste :
+<code>## Listes</code>
 
-<ul>
-    <li>Rouge</li>
-    <li>Vert</li>
-    <li>Bleu</li>
-</ul>
+Markdown supporte les listes ordonnées (numérotées) et non-ordonnées (à puces). Les listes non-ordonnées utilisent l’astérisque, le plus, ou encore le tiret — de façon tout à fait interchangeable — en tant que marqueur de liste :
+
+<pre><code>* Rouge
+* Vert
+* Bleu
+</code></pre>
 
 est équivalent à :
 
-<ul>
-    <li>Rouge</li>
-    <li>Vert</li>
-    <li>Bleu</li>
-</ul>
+<pre><code>- Rouge
+- Vert
+- Bleu
+</code></pre>
 
 et à :
 
+<pre><code>+ Rouge
++ Vert
++ Bleu
+</code></pre>
+
+et correspondent à :
+
 <ul>
-    <li>Rouge</li>
-    <li>Vert</li>
-    <li>Bleu</li>
+<li>Rouge</li>
+<li>Vert</li>
+<li>Bleu</li>
 </ul>
 
 Les listes ordonnées utilisent un nombre suivit d’un point :
 
-<ol>
-    <li>Parker</li>
-    <li>Batum</li>
-    <li>Diaw</li>
-</ol>
+<pre><code>1. Parker
+2. Batum
+3. Diaw
+</code></pre>
 
 Il est important de noter que l’ordre des nombres que vous utilisez pour écrire la liste n’a pas d’effet sur la sortie HTML que Markdown produit. Le code HTML produit par Markdown à partir du texte ci-dessus est :
 
 <ol>
-    <li>Parker</li>
-    <li>Batum</li>
-    <li>Diaw</li>
+<li>Parker</li>
+<li>Batum</li>
+<li>Diaw</li>
 </ol>
 
 Si vous écrivez la liste comme ceci :
 
-<ol>
-    <li>Parker</li>
-    <li>Batum</li>
-    <li>Diaw</li>
-</ol>
+<pre><code>1. Parker
+1. Batum
+1. Diaw
+</code></pre>
 
 ou même :
 
-<ol>
-    <li>Parker</li>
-    <li>Batum</li>
-    <li>Diaw</li>
-</ol>
+<pre><code>8. Parker
+3. Batum
+1. Diaw
+</code></pre>
 
-vous obtiendriez exactement le même code HTML en sortie. L’idée est que, si vous voulez, vous pouvez utiliser des nombres ordinaux dans vos listes ordonnées faites avec Markdown, de façon à ce que les nombres dans votre texte d’entrée correspondent avec ceux du résultat HTML. Mais si vous préférez, vous n’avez pas à le faire. Toutefois, si vous ne numérotez pas les éléments dans l’ordre, vous devriez quand même débuter vos listes avec le numéro 1. Il est possible que Markdown supporte dans le futur des listes ordonnées commençant par un numéro quelconque. Les marqueurs de liste sont typiquement alignés sur la marge de gauche, mais peuvent être indentés de la marge par trois espaces ou moins. Les marqueurs de liste doivent être suivis par au moins une espace, ou par une tabulation. Pour écrire une liste qui se lit bien, vous pouvez ajouter une indentation après chaque saut de ligne manuel :
+vous obtiendriez exactement le même code HTML en sortie. L’idée est que, si vous voulez, vous pouvez utiliser des nombres ordinaux dans vos listes ordonnées faites avec Markdown, de façon à ce que les nombres dans votre texte d’entrée correspondent avec ceux du résultat HTML. Mais si vous préférez, vous n’avez pas à le faire.
+
+Toutefois, si vous ne numérotez pas les éléments dans l’ordre, vous devriez quand même débuter vos listes avec le numéro 1. Il est possible que Markdown supporte dans le futur des listes ordonnées commençant par un numéro quelconque.
+
+Les marqueurs de liste sont typiquement alignés sur la marge de gauche, mais peuvent être indentés de la marge par trois espaces ou moins. Les marqueurs de liste doivent être suivis par au moins une espace, ou par une tabulation.
+
+Pour écrire une liste qui se lit bien, vous pouvez ajouter une indentation après chaque saut de ligne manuel :
 
 <ul>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</li>
-    <li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.</li>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p></li>
+<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
 </ul>
 
-Mais si vous préférez vous éviter du travail, vous n’avez pas à le faire :
+<p>Mais si vous préférez vous éviter du travail, vous n’avez pas à le faire :
 
 <ul>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</li>
-    <li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.</li>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p></li>
+<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
 </ul>
 
-Si les éléments de la liste sont séparés par une ligne blanche, Markdown placera leur contenu à l’intérieur de balises dans la sortie HTML. Par exemple, cette entrée : * Oiseau * Magie sera changée en :
+<pre>*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+       Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+       Suspendisse id sem consectetuer libero luctus adipiscing.</pre>
+
+<p>Si les éléments de la liste sont séparés par une ligne blanche, Markdown placera leur contenu à l’intérieur de balises dans la sortie HTML. Par exemple, cette entrée :
+
+<pre><code>* Oiseau 
+* Magie 
+</code></pre>
+
+sera changée en :
 
 <ul>
-    <li>Oiseau</li>
-    <li>Magie</li>
+<li>Oiseau</li>
+<li>Magie</li>
 </ul>
 
 Alors que ceci :
 
-<ul>
-    <li>Oiseau</li>
-    <li>Magie</li>
-</ul>
+<pre><code>* Oiseau
+
+* Magie
+</code></pre>
 
 sera changé en :
 
 <ul>
-    <li>Oiseau</li>
+<li>Oiseau</p></li>
+<li><p>Magie</p></li>
 </ul>
 
-<ul>
-    <li>Magie</li>
-</ul>
+<p>Les éléments d’une liste peuvent être constitués de plusieurs paragraphes. Tous les paragraphes suivants le premier doivent à ce moment être indentés par 4 espaces ou une tabulation :
 
-Les éléments d’une liste peuvent être constitués de plusieurs paragraphes. Tous les paragraphes suivant le premier doivent à ce moment être indentés par 4 espaces ou une tabulation :
+<pre><code>1.  Ceci est un élément de la liste contenant deux paragraphes. 
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+    Aliquam hendrerit mi posuere lectus.
 
-<ol>
-    <li>Ceci est un élément de la liste contenant deux paragraphes. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-<ol>
-    <li>Suspendisse id sem consectetuer libero luctus adipiscing.</li>
-</ol>
-</li>
-</ol>
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+</code></pre>
 
 Le résultat est plus beau si vous indentez toutes les lignes des paragraphes, mais ici aussi Markdown vous permet d’être un peu souple :
 
-<ul>
-    <li>Ceci est un élément de la liste avec deux paragraphes.Ceci est le deuxième paragraphe dans l'élément. Vous n'avez besoin d'indenter que la première ligne. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-    <li>Un autre élément dans la même liste.</li>
-</ul>
+<pre><code>*   Ceci est un élément de la liste avec deux paragraphes.
 
-Pour mettre un bloc de citation à l’intérieur d’un élément d’une liste, les délimiteurs &gt; du bloc de citation doivent être indentés :
+    Ceci est le deuxième paragraphe dans l'élément. Vous
+</code></pre>
+
+n'avez besoin d'indenter que la première ligne. Lorem ipsum 
+dolor sit amet, consectetuer adipiscing elit.
+
+<pre><code>*   Un autre élément dans la même liste.
+</code></pre>
+
+Pour mettre un bloc de citation à l’intérieur d’un élément d’une liste, les délimiteurs <code>&gt;</code> du bloc de citation doivent être indentés :
 
 <pre><code>*   Un élément de la liste avec une citation :
 
@@ -11290,64 +11443,75 @@ Pour mettre un bloc de citation à l’intérieur d’un élément d’une liste
 
 Pour placer un bloc de code à l’intérieur de l’élément d’une liste, le bloc de code doit être indenté deux fois (une fois pour la liste et une fois pour le bloc de code), ce qui représente 8 espaces ou deux tabulations :
 
-<pre><code>*   Un élement de liste avec un bloc de code :
+<pre><code>*   Un élément de liste avec un bloc de code :
 
         &lt;le code vient ici&gt;
 </code></pre>
 
 Il vaut la peine de noter qu’il est possible de déclencher une liste ordonnée par accident, en écrivant quelque chose comme ça :
 
-<ol>
-    <li>Quelle belle saison.</li>
-</ol>
+<pre><code>2014. Quelle belle année en prévision.
+</code></pre>
 
-En d’autre mots, une séquence nombre-point-espace au début d’une ligne. Pour éviter cette situation, vous pouvez échapper le point à l’aide d’une barre oblique inverse : 1986. Quelle belle saison.
+En d’autre mots, une séquence nombre-point-espace au début d’une ligne. Pour éviter cette situation, vous pouvez échapper le point à l’aide d’une barre oblique inverse :
+
+<pre><code>2014\. Quelle belle année en prévision.
+</code></pre>
 
 <h2>Blocs de code</h2>
 
-Les blocs de code sont utilisés pour écrire du code de programmation ou de balisage HTML. À la place de former des paragraphes normaux, les lignes d’un bloc de code sont interprétées littéralement. Markdown enveloppe un bloc de code avec les deux balises &lt;pre&gt; et &lt;code&gt;. Pour produire un bloc de code avec Markdown, vous n’avez qu’à indenter chaque ligne d’un bloc par au moins 4 espaces ou une tabulation. Par exemple, avec ce texte en entrée : Ceci est un paragraphe normal :
+<code>## Blocs de code</code>
 
-<pre><code>Ceci est un bloc de code.
+Les blocs de code sont utilisés pour écrire du code de programmation ou de balisage HTML. À la place de former des paragraphes normaux, les lignes d’un bloc de code sont interprétées littéralement. Markdown enveloppe un bloc de code avec les deux balises <code>&lt;pre&gt;</code> et <code>&lt;code&gt;</code>.
+
+Pour produire un bloc de code avec Markdown, vous n’avez qu’à indenter chaque ligne d’un bloc par au moins 4 espaces ou une tabulation. Par exemple, avec ce texte en entrée :
+
+<pre><code>Ceci est un paragraphe normal :
+
+    Ceci est un bloc de code.
 </code></pre>
 
-Markdown générera : Ceci est un paragraphe normal :
+Markdown générera :
+
+Ceci est un paragraphe normal :
 
 <pre><code>Ceci est un bloc de code.
 </code></pre>
 
 Un niveau d’indentation — 4 espaces ou une tabulation — est enlevé de chaque ligne du bloc de code. Par exemple, ceci :
 
-<pre><code>Voici un exemple d'AppleScript:
+Voici un exemple d'AppleScript :
     tell application "Foo"
         beep
     end tell
-</code></pre>
-
 Markdown générera :
 
-<pre>Voici un exemple d'AppleScript :
-<code>tell application "Foo"
+Voici un exemple d'AppleScript :
+
+<pre><code>tell application "Foo"
     beep
 end tell
 </code></pre>
 
-Un bloc de code se termine à la première ligne qui n’est pas indentée (ou en atteignant la fin de l’article). À l’intérieur d’un bloc de code, l'esperluète (&amp;) et les chevrons (&lt; et &gt;) sont automatiquement convertis en entités HTML. Ceci permet d’inclure très facilement des exemples de code HTML en utilisant Markdown — juste à le coller et à l’indenter, et Markdown s’occupera d’encoder l'esperluète et les chevrons. Par exemple, ceci :
+Un bloc de code se termine à la première ligne qui n’est pas indentée (ou en atteignant la fin de l’article). À l’intérieur d’un bloc de code, l'esperluette (&amp;) et les chevrons (&lt; et >) sont automatiquement convertis en entités HTML. Ceci permet d’inclure très facilement des exemples de code HTML en utilisant Markdown — juste à le coller et à l’indenter, et Markdown s’occupera d’encoder l'esperluette et les chevrons. Par exemple, ceci :
 
-<pre><code>    &lt;div class="footer"&gt;
-        &amp;copy; 2014 Foo Corporation
-    &lt;/div&gt;
+<pre><code>&lt;div class="footer"&gt;
+    &amp;copy; 2014 Foo Corporation
+&lt;/div&gt;
 </code></pre>
 
 sera converti en :
 
 <pre><code>&lt;div class="footer"&gt;
-        &amp;copy; 2014 Foo Corporation
-    &lt;/div&gt;
-    </code></pre>
+    &amp;copy; 2004 Foo Corporation
+&lt;/div&gt;
+</code></pre>
 
 La syntaxe Markdown n’est pas traitée à l’intérieur d’un bloc de code. Ceci signifie qu’il est aussi très facile d’utiliser Markdown pour écrire des exemples portant sur sa propre syntaxe.
 
 <h2>Lignes horizontales</h2>
+
+<code>## Lignes horizontales</code>
 
 Vous pouvez produire une ligne horizontale
 
@@ -11355,61 +11519,303 @@ Vous pouvez produire une ligne horizontale
 
 en plaçant au moins trois tirets, astérisques, ou barres de soulignement seuls sur une ligne. Si vous voulez, vous pouvez aussi écrire des espaces entre les tirets ou les astérisques. Chacune des lignes suivante produira une ligne horizontale :
 
-<hr />
-
-<hr />
-
-<hr />
-
-<hr />
-
-<hr />
-
-<hr />
+<pre><code>* * *
+***
+*****
+- - -
+---------------------------------------
+_ _ _
+</code></pre>
 
 <h2>Éléments de texte</h2>
 
-<h2>Liens</h2>
+<code>## Éléments de texte</code>
 
-Markdown supporte deux styles de liens : incorporé au texte et par référence. Dans les deux cas, le texte du lien est délimité par des [crochets]. Pour créer un lien incorporé au texte, insérez une parenthèse immédiatement après le crochet qui ferme le texte du lien. À l’intérieur de la parenthèse, placez l’URL sur lequel vous voulez faire pointer le lien, optionnellement accompagné d’un titre pour le lien entouré de guillemets droits. Par exemple : Ceci est <a title="Titre" href="http://exemple.com/">un exemple</a> de lien incorporé. <a href="http://exemple.net/">Ce lien</a> n'a pas de titre. Produira : Ceci est <a title="Titre" href="http://exemple.com/"> un exemple</a> de lien incorporé. <a href="http://exemple.net/">Ce lien</a> n'a pas de titre. Si vous faites référence à une ressource locale sur le même serveur, vous pouvez utiliser un chemin relatif : Voir ma page <a href="/description/">Description</a> pour les détails. Les liens par référence utilisent une deuxième paire de crochets, à l’intérieur desquels vous placez une étiquette pour identifier le lien : Ceci est <a title="Titre optionnel" href="url/vers/image">un exemple</a> de lien en référence. Vous pouvez facultativement utiliser une espace pour séparer les deux crochets : Ceci est <a title="Titre optionnel" href="url/vers/image">un exemple</a> de lien en référence. Ensuite, n’importe où dans le document, vous définissez le lien de cette façon, sur sa propre ligne : En résumé :
+<h3>Liens</h3>
+
+Markdown supporte deux styles de liens : incorporé au texte et par référence.
+
+Dans les deux cas, le texte du lien est délimité par des [crochets].
+
+Pour créer un lien incorporé au texte, insérez une parenthèse immédiatement après le crochet qui ferme le texte du lien. À l’intérieur de la parenthèse, placez l’URL sur lequel vous voulez faire pointer le lien, optionnellement accompagné d’un titre pour le lien entouré de guillemets droits. Par exemple :
+
+<pre><code>Ceci est [un exemple](http://exemple.com/ "Titre") de lien incorporé.
+</code></pre>
+
+Produira :
+
+Ceci est <a href="http://exemple.com/" title="Titre">
+un exemple</a> de lien incorporé.
+
+<a href="http://exemple.net/">Ce lien</a> n'a pas de
+titre.
+
+Si vous faites référence à une ressource locale sur le même serveur, vous pouvez utiliser un chemin relatif :
+
+<pre><code>Voir ma page [Description](/description/) pour les détails. 
+</code></pre>
+
+Les liens par référence utilisent une deuxième paire de crochets, à l’intérieur desquels vous placez une étiquette pour identifier le lien :
+
+<pre><code>Ceci est [un exemple][id] de lien en référence.
+</code></pre>
+
+Vous pouvez facultativement utiliser une espace pour séparer les deux crochets :
+
+<pre><code>Ceci est [un exemple] [id] de lien en référence.
+</code></pre>
+
+Ensuite, n’importe où dans le document, vous définissez le lien de cette façon, sur sa propre ligne. En résumé :
 
 <ul>
-    <li>Des crochets contenant le nom du lien (pouvant être indentés de la marge de gauche par au plus trois espaces);</li>
-    <li>suivis d’un deux-points;</li>
-    <li>suivi d’une espace ou plus (ou des tabulations);</li>
-    <li>suivi par l’URL du lien;</li>
-    <li>optionnellement suivi d’un titre entouré par des guillemets droits simples ou doubles.</li>
-    <li>L’URL du lien peut, mais ce n’est pas obligatoire, être entourée par des chevrons :</li>
+<li>Des crochets contenant le nom du lien (pouvant être indentés de la marge de gauche par au plus trois espaces);</li>
+<li>suivis d’un deux-points;</li>
+<li>suivi d’une espace ou plus (ou des tabulations);</li>
+<li>suivi par l’URL du lien;</li>
+<li>optionnellement suivi d’un titre entouré par des guillemets droits simples ou doubles.</li>
 </ul>
 
-Vous pouvez placer l’attribut titre sur la ligne suivante et utiliser des espaces supplémentaires ou des tabulations pour faire du remplissage, ce qui donne un plus beau résultat avec de longues URLs : Les définitions de liens sont utilisées uniquement pour créer des liens durant le traitement par Markdown, et sont supprimées du document HTML en sortie. Les noms des liens peuvent contenir des lettres, des nombres, des espaces et de la ponctuation — mais ils ne sont pas sensibles à la casse. Par exemple, ces deux liens : [lien du texte][a] et [lien du texte][A] sont équivalents. Vous pouvez utiliser un nom de lien implicite, ce qui vous permet d’omettre le nom du lien, et dans ce cas le lien est identifié par son texte. Utilisez simplement une paire de crochets vides — c’est à dire que pour créer un lien « Google » vers le site google.com, vous pouvez simplement écrire : <a title="Google" href="http://google.com/">Google</a> Et ensuite définir le lien : Parce que le nom du lien peut contenir des espaces, ce raccourci fonctionne aussi quand vous avez plusieurs mots dans le texte lié : Visitez <a href="http://daringfireball.net/">Daring Fireball</a> pour plus d'informations. Et ensuite définissez le lien : Les définitions de lien peuvent être placées n’importe où dans le document Markdown. J’ai tendance à les placer immédiatement après le paragraphe dans lequel elles sont utilisées, mais si vous voulez, vous pouvez les placer à la fin de votre document, comme des notes de bas de page. Voici un exemple qui montre les liens par référence en action : Je reçois 10 fois plus de trafic de <a title="Google" href="http://google.com/">Google</a> que de <a title="Yahoo Search" href="http://fr.search.yahoo.com/">Yahoo</a> ou de <a title="Bing Search" href="http://bing.com/">Bing</a>. En utilisant les noms de liens implicites, vous pourriez écrire : Je reçois 10 fois plus de trafic de <a title="Google" href="http://google.com/">Google</a> que de <a title="Yahoo Search" href="http://fr.search.yahoo.com/">Yahoo</a> ou de <a title="Bing Search" href="http://www.bing.com/">Bing</a>. Les deux exemples ci-dessus produiront le code HTML suivant : Je reçois 10 fois plus de trafic de <a title="Google" href="http://google.com/">Google</a> que de <a title="Yahoo Search" href="http://fr.search.yahoo.com/">Yahoo</a> ou de <a title="Bing Search" href="http://bing.com/">Bing</a>. En guise de comparaison, voici le même paragraphe écrit avec la syntaxe de lien incorporées : Je reçois 10 fois plus de trafic de <a title="Google" href="http://google.com/">Google</a> que de <a title="Yahoo Search" href="http://fr.search.yahoo.com/">Yahoo</a> ou de <a title="Bing Search" href="http://bing.com/">Bing</a>. Le but des liens par référence n’est pas qu’ils soient plus faciles à écrire. L’idée est qu’avec les liens par référence, votre document est beaucoup plus lisible. Comparez les exemples ci-dessus : en utilisant les liens par référence, le paragraphe contient seulement 81 caractères, avec les liens incorporés au texte nous avons 176 caractères, et sous forme de code HTML, c’est 234 caractères. En HTML, il y a plus de balises que de texte. Avec les liens par référence de Markdown, un document source ressemble beaucoup plus à sa sortie finale, tel qu’il sera affiché par un navigateur. En vous permettant de prendre les informations supplémentaires reliées aux liens et de les placer en dehors du paragraphe, vous pouvez créer des liens sans interrompre l’écoulement narratif de votre texte.
+L’URL du lien peut, mais ce n’est pas obligatoire, être entourée par des chevrons :
 
-<h2>Emphase</h2>
+<pre><code>[id]: &lt;http://exemple.com/&gt;  "Titre facultatif"
+</code></pre>
 
-Markdown interprète les astérisques (<em>) et les traits soulignés (_) pour indiquer l’emphase. Du texte placé entre deux * ou _ sera entouré par l’élément HTML <code>&lt;em&gt;</code> ; avec des doubles * ou _, le texte sera entouré de l’élément <code>&lt;strong&gt;</code>. Par exemple, cette entrée : <em>astérisques simples</em> <em>traits soulignés simples</em> <strong>astérisques double</strong> <strong>traits soulignés doubles</strong> produira : <em>astérisques simples</em> <em>traits soulignés simples</em> <strong>astérisques double</strong> <strong>traits soulignés doubles</strong> Vous pouvez utiliser le style que vous préférez ; la seule restriction est que le même caractère doit être utilisé pour ouvrir et fermer l’emphase. L’emphase peut être utilisée au milieu d’un mot : un<em>fucking</em>believable Mais si vous placez un * ou _ entre deux espaces, il sera traité littéralement comme un astérisque ou un trait de soulignement. Pour produire un astérisque littéral à un endroit où il serait autrement utilisé comme délimiteur d’emphase, vous pouvez l’échapper à l’aide d’une barre oblique inverse : *ce texte est entouré d'astérisques littéraux</em>
+Vous pouvez placer l’attribut titre sur la ligne suivante et utiliser des espaces supplémentaires ou des tabulations pour faire du remplissage, ce qui donne un plus beau résultat avec de longues URLs :
 
-<h2>Code</h2>
+<pre><code>[id]: http://exemple.com/long/chemin/vers/la/ressource
+"Titre facultatif"
+</code></pre>
 
-Pour indiquer une étendue de code, entourez-la de guillemets obliques (un accent grave solitaire : <code>). Contrairement aux blocs de code, une étendue de code signale du code à l’intérieur d’un paragraphe. Par exemple : Utilisez la fonction &lt;code&gt;printf()&lt;/code&gt; pour afficher. produira : Utilisez la fonction &lt;code&gt;printf()&lt;/code&gt; pour afficher. Pour écrire des guillemets obliques dans une étendue de code, vous pouvez utiliser plusieurs apostrophes obliques pour ouvrir et fermer l’étendue de code : &lt;code&gt;Il y a un guillemet oblique (</code>) ici.</code> produira : <code>Il y a un guillemet oblique (<code>) ici.&lt;/code&gt; Les délimiteurs de l’étendue de code peuvent inclure des espaces — une après le guillemet d’ouverture, une après celui de fermeture. Ceci vous permet de placer un guillemet oblique littéral au début et à la fin de l’étendue de code : Un guillemet oblique dans une étendue de code : &lt;code&gt;</code></code> Du texte délimité par des guillemets obliques dans une étendue de code : <code><code>foo</code></code> produira : Un guillemet oblique dans une étendue de code : <code><code>&lt;/code&gt; Du texte délimité par des guillemets obliques dans une étendue de code : &lt;code&gt;&lt;code&gt;foo&lt;/code&gt;&lt;/code&gt; Dans une étendue de code, l'esperluète et les chevrons sont encodés en entités HTML automatiquement, ce qui permet d’ajouter facilement des exemples de balises HTML. Markdown convertira ceci : N'utilisez pas &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; s'il vous plaît. produira : N'utilisez pas &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; s'il vous plaît. Vous pouvez écrire ceci : &lt;code&gt;—&lt;/code&gt; est l'équivalent décimal de &lt;code&gt;—&lt;/code&gt;. produira : &lt;code&gt;—&lt;/code&gt; est l'équivalent décimal de &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.
-&lt;h2&gt;Images&lt;/h2&gt;
-En effet, c’est plutôt difficile de construire une syntaxe « naturelle » pour placer des images dans un document texte. Markdown utilise une syntaxe d’image qui ressemble à la syntaxe des liens, permettant deux variantes : incorporé et par référence. La syntaxe des images incorporées ressemble à ceci : &lt;img alt="Texte alternatif" src="/chemin/vers/img.jpg" /&gt; &lt;img title="Titre optionnel" alt="Texte alternatif" src="/chemin/vers/img.jpg" /&gt; C’est à dire :
-&lt;ul&gt;
-    &lt;li&gt;Un point d’exclamation : ! ;&lt;/li&gt;
-    &lt;li&gt;suivi d’une paire de crochets contenant le texte de l’attribut alt de l’image ;&lt;/li&gt;
-    &lt;li&gt;suivi par une parenthèse, contenant l’URL ou le chemin vers l’image, et optionnellement un titre entouré par des guillemets droits simples ou doubles.&lt;/li&gt;
-&lt;/ul&gt;
-La syntaxe pour les images par référence ressemble à ceci : &lt;img title="Titre optionnel" alt="Texte alternatif" src="url/vers/image" /&gt; Où « id » est le nom de la référence de l’image. Les références sont définies en utilisant la même syntaxe que celle des liens par référence : Au moment d’écrire ceci, Markdown n’a pas de syntaxe pour spécifier les dimensions d’une image ; si c’est important pour vous, vous n’avez qu’à utiliser la balise HTML &lt;img alt="" /&gt;.
-&lt;h2&gt;Divers&lt;/h2&gt;
-&lt;h2&gt;Liens automatiques&lt;/h2&gt;
-Markdown comprend dans sa syntaxe un raccourci permettant de créer des liens « automatiquement » pour les URLs et les adresses de courrier électronique : entourez tout simplement l’adresse par des chevrons. Ceci signifie que si vous voulez rendre visible l’URL ou l’adresse de courrier tout en lui permettant d’être cliquable, vous pouvez écrire ceci : &lt;a href="http://exemple.com/"&gt;http://exemple.com/&lt;/a&gt; Markdown produira ceci : &lt;a href="http://exemple.com/"&gt;http://exemple.com/&lt;/a&gt; Les liens automatiques pour les adresses de courrier électronique fonctionnent de la même façon, sauf que Markdown exécutera en plus un encodage aléatoire en entités décimales et hexadécimales pour rendre l’adresse plus difficile à lire par les robots qui voudraient vous spammer. Par exemple, Markdown convertira ceci : &lt;a href="mailto:adresse@exemple.com"&gt;adresse@exemple.com&lt;/a&gt; en quelque chose ressemblant à ça : &lt;a href="mailto:adre&amp;lt;br /&amp;gt;
-sse@exemple&amp;lt;br /&amp;gt;
-.com"&gt;adresse@ exemple.com&lt;/a&gt; ce qui sera affiché par le navigateur comme un lien cliquable vers « adresse@exemple.com ». (Ce type d’encodage par entité peut tromper beaucoup de robots, mais pas tous. C’est mieux que rien, mais une adresse publiée de cette façon finira probablement par être spammée.)
-&lt;h2&gt;Échappement par barre oblique inverse&lt;/h2&gt;
-Markdown vous permet d’utiliser une barre oblique inverse &lt;code&gt;()&lt;/code&gt; pour générer des caractères littéraux qui auraient autrement une autre signification dans la syntaxe de Markdown. Par exemple, si vous voulez entourer un mot avec des astérisques (sans créer de balise HTML &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;), ajoutez une barre oblique inverse devant l’astérisque, comme ceci : *astérisques littéraux* Markdown permet d’échapper les caractères suivants : barre oblique inverse</code> guillemet oblique (accent grave) * astérisque _ trait souligné {} accolades [] crochets () parenthèses # croisillon (dièse) + plus - moins (tiret) . point ! point d'exclamation
+Les définitions de liens sont utilisées uniquement pour créer des liens durant le traitement par Markdown, et sont supprimées du document HTML en sortie. Les noms des liens peuvent contenir des lettres, des nombres, des espaces et de la ponctuation — mais ils ne sont pas sensibles à la casse. Par exemple, ces deux liens :
+
+<pre><code>[lien du texte][a] et [lien du texte][A]
+</code></pre>
+
+sont équivalents.
+
+Vous pouvez utiliser un nom de lien implicite, ce qui vous permet d’omettre le nom du lien, et dans ce cas le lien est identifié par son texte. Utilisez simplement une paire de crochets vides — c’est à dire que pour créer un lien « Google » vers le site google.com, vous pouvez simplement écrire :
+
+<pre><code>[Google][]
+</code></pre>
+
+Et ensuite définir le lien :
+
+<pre><code>[Google]: http://google.com/
+</code></pre>
+
+Parce que le nom du lien peut contenir des espaces, ce raccourci fonctionne aussi quand vous avez plusieurs mots dans le texte lié :
+
+<pre><code>Visitez [Daring Fireball][] pour plus d'informations.
+</code></pre>
+
+Et ensuite définissez le lien :
+
+<pre><code>[Daring Fireball]: http://daringfireball.net/
+</code></pre>
+
+Les définitions de lien peuvent être placées n’importe où dans le document Markdown. J’ai tendance à les placer immédiatement après le paragraphe dans lequel elles sont utilisées, mais si vous voulez, vous pouvez les placer à la fin de votre document, comme des notes de bas de page. Voici un exemple qui montre les liens par référence en action :
+
+<pre><code>Je reçois 10 fois plus de trafic de Google[1] que de Yahoo[2] ou de Bing[3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://bing.com/    "Bing Search"
+</code></pre>
+
+En utilisant les noms de liens implicites, vous pourriez écrire :
+
+<pre><code>Je reçois 10 fois plus de trafic de Google[] que de Yahoo[] ou de Bing[].
+
+  [google]: http://google.com/        "Google"
+  [yahoo]: http://search.yahoo.com/  "Yahoo Search"
+  [bing]: http://bing.com/    "Bing Search" 
+</code></pre>
+
+Les deux exemples ci-dessus produiront le code HTML suivant :
+
+Je reçois 10 fois plus de trafic de <a href="http://google.com/" title="Google">Google</a> que de <a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> ou <a href="http://bing.com/" title="Bing Search">Bing</a>.
+
+En guise de comparaison, voici le même paragraphe écrit avec la syntaxe de lien incorporées :
+
+<pre><code>Je reçois 10 fois plus de trafic de [Google](http://google.com/ "Google") que de [Yahoo](http://search.yahoo.com/ "Yahoo Search") ou [Bing](http://bing.com/ "Bing Search").
+</code></pre>
+
+Le but des liens par référence n’est pas qu’ils soient plus faciles à écrire. L’idée est qu’avec les liens par référence, votre document est beaucoup plus lisible. Comparez les exemples ci-dessus : en utilisant les liens par référence, le paragraphe contient seulement 81 caractères, avec les liens incorporés au texte nous avons 176 caractères, et sous forme de code HTML, c’est 234 caractères.
+
+En HTML, il y a plus de balises que de texte. Avec les liens par référence de Markdown, un document source ressemble beaucoup plus à sa sortie finale, tel qu’il sera affiché dans votre navigateur. En vous permettant de prendre les informations supplémentaires reliées aux liens et de les placer en dehors du paragraphe, vous pouvez créer des liens sans interrompre l’écoulement narratif de votre texte.
+
+<h3>Emphase</h3>
+
+Markdown interprète les astérisques <code>*</code> et les traits soulignés <code>_</code> pour indiquer l’emphase. Du texte placé entre deux <code>*</code> ou <code>_</code> sera entouré par l’élément HTML <code>&lt;em&gt;</code> ; avec des doubles <code>*</code> ou <code>_</code>, le texte sera entouré de l’élément <code>&lt;strong&gt;</code>. Par exemple, cette entrée :
+
+<pre><code>*astérisques simples*
+
+_traits soulignés simples_
+
+**astérisques double**
+
+__traits soulignés doubles__
+</code></pre>
+
+produira :
+
+<em>astérisques simples</em>
+
+<em>traits soulignés simples</em>
+
+<strong>astérisques double</strong>
+
+<strong>traits soulignés doubles</strong>
+
+Vous pouvez utiliser le style que vous préférez; la seule restriction est que le même caractère doit être utilisé pour ouvrir et fermer l’emphase. L’emphase peut être utilisée au milieu d’un mot :
+
+<pre><code>un*fucking*believable 
+</code></pre>
+
+Mais si vous placez un <code>*</code> ou <code>_</code> entre deux espaces, il sera traité littéralement comme un astérisque ou un trait de soulignement. Pour produire un astérisque littéral à un endroit où il serait autrement utilisé comme délimiteur d’emphase, vous pouvez l’échapper à l’aide d’une barre oblique inverse :
+
+<pre><code>\*ce texte est entouré d'astérisques litéraux\*
+</code></pre>
+
+<h3>Code</h3>
+
+Pour indiquer une étendue de code, entourez-la de guillemets obliques (un accent grave solitaire : &#96;). Contrairement aux blocs de code, une étendue de code signale du code à l’intérieur d’un paragraphe. Par exemple :
+
+<pre><code>Utilisez la fonction `printf()` pour afficher.
+</code></pre>
+
+produira :
+
+Utilisez la fonction <code>printf()</code> pour afficher.
+
+Pour écrire des guillemets obliques dans une étendue de code, vous pouvez utiliser plusieurs apostrophes obliques pour ouvrir et fermer l’étendue de code :
+
+<pre><code>``Il y a un guillemet oblique (`) ici.``
+</code></pre>
+
+Il y a un guillemet oblique () ici. produira :
+
+<code>Il y a un guillemet oblique (`) ici.</code>
+
+Les délimiteurs de l’étendue de code peuvent inclure des espaces — une après le guillemet d’ouverture, une après celui de fermeture. Ceci vous permet de placer un guillemet oblique littéral au début et à la fin de l’étendue de code :
+
+<pre><code>Un guillemet oblique dans une étendue de code : `` ` ``
+
+Du texte délimité par des guillemets obliques dans une étendue de code : `` `foo` ``
+</code></pre>
+
+produira :
+
+Un guillemet oblique dans une étendue de code : <code>`</code>
+
+Du texte délimité par des guillemets obliques dans une étendue de code : <code>`foo`</code>
+
+Dans une étendue de code, l’esperluette et les chevrons sont encodés en entités HTML automatiquement, ce qui permet d’ajouter facilement des exemples de balises HTML. Markdown convertira ceci :
+
+<pre><code>N'utilisez pas `&lt;blink&gt;` s'il vous plaît.
+</code></pre>
+
+produira :
+
+N'utilisez pas <code>&lt;blink&gt;</code> s'il vous plaît.
+
+Vous pouvez écrire ceci :
+
+<pre><code>`&amp;#8212;` est l'équivalent décimal de `&amp;mdash;`.
+</code></pre>
+
+produira :
+
+<code>&amp;#8212;</code> est l'équivalent décimal de <code>&amp;mdash;</code>.
+
+<h2>Images</h2>
+
+<code>## Images</code>
+
+En effet, c’est plutôt difficile de construire une syntaxe « naturelle » pour placer des images dans un document texte.
+
+Markdown utilise une syntaxe d’image qui ressemble à la syntaxe des liens, permettant deux variantes : incorporé et par référence.
+
+La syntaxe des images incorporées ressemble à ceci :
+
+<pre><code>![Texte alternatif](/chemin/vers/img.jpg)
+
+![Texte alternatif](/chemin/vers/img.jpg "Titre optionnel")
+</code></pre>
+
+C’est à dire :
+
+<ul>
+<li>Un point d’exclamation : ! ;</li>
+<li>suivi d’une paire de crochets contenant le texte de l’attribut alt de l’image ;</li>
+<li>suivi par une parenthèse, contenant l’URL ou le chemin vers l’image, et optionnellement un titre entouré par des guillemets droits simples ou doubles.</li>
+</ul>
+
+La syntaxe pour les images par référence ressemble à ceci :
+
+<pre><code>![Texte alternatif][id] 
+</code></pre>
+
+Où « id » est le nom de la référence de l’image. Les références sont définies en utilisant la même syntaxe que celle des liens par référence :
+
+<pre><code>[id]: url/vers/image "Titre optionnel"
+</code></pre>
+
+Au moment d’écrire ceci, Markdown n’a pas de syntaxe pour spécifier les dimensions d’une image ; si c’est important pour vous, vous n’avez qu’à utiliser la balise HTML <code>&lt;img alt="" /&gt;</code>.
+
+<h2>Divers</h2>
+
+<h2>Liens automatiques</h2>
+
+Markdown comprend dans sa syntaxe un raccourci permettant de créer des liens « automatiquement » pour les URLs et les adresses de courrier électronique : entourez tout simplement l’adresse par des chevrons. Ceci signifie que si vous voulez rendre visible l’URL ou l’adresse de courrier tout en lui permettant d’être cliquable, vous pouvez écrire ceci :
+
+<pre><code>&lt;http://exemple.com/&gt;
+</code></pre>
+
+Markdown produira ceci :
+
+<a href="http://exemple.com/">http://exemple.com/</a>
+
+Les liens automatiques pour les adresses de courrier électronique fonctionnent de la même façon, sauf que Markdown exécutera en plus un encodage aléatoire en entités décimales et hexadécimales pour rendre l’adresse plus difficile à lire par les robots qui voudraient vous spammer. Par exemple, Markdown convertira ceci :
+
+<pre><code>&lt;adresse@exemple.com&gt;
+</code></pre>
+
+en quelque chose ressemblant à ça :
+
+<a href="&#x6d;&#x61;&#105;l&#x74;&#x6f;:a&#x64;&#114;&#101;
+&#115;&#115;&#101;&#64;&#101;&#x78;&#101;&#x6d;&#112;&#x6c;&#x65;
+.&#99;&#x6f;&#x6d;">a&#x64;&#114;&#101;&#115;&#115;&#101;&#64;
+&#101;&#x78;&#101;&#x6d;&#112;&#x6c;&#x65;.&#99;&#x6f;&#x6d;</a>
+
+ce qui sera affiché par le navigateur comme un lien cliquable vers « adresse@exemple.com ». (Ce type d’encodage par entité peut tromper beaucoup de robots, mais pas tous. C’est mieux que rien, mais une adresse publiée de cette façon finira probablement par être spammée.)
+
+<h2>Échappement par barre oblique inverse</h2>
+
+Markdown vous permet d’utiliser une barre oblique inverse <code>\</code> pour générer des caractères littéraux qui auraient autrement une autre signification dans la syntaxe de Markdown. Par exemple, si vous voulez entourer un mot avec des astérisques (sans créer de balise HTML <code>&lt;em&gt;</code>), ajoutez une barre oblique inverse devant l’astérisque, comme ceci :
+
+<pre><code>*astérisques littéraux* 
+</code></pre>
+
+Markdown permet d’échapper les caractères suivants :
+
+<pre><code>\   barre oblique inverse
+`   guillemet oblique (accent grave)
+*   astérisque
+_   trait souligné
+{}  accolades
+[]  crochets
+()  parenthèses
+#   croisillon (dièse)
++   plus
+-   moins (tiret)
+.   point
+!   point d'exclamation
+</code></pre>
 
 <h2>Remerciements</h2>
 
-Merci à <a title="Michel Fortin" href="http://michelf.ca/accueil/">Michel Fortin</a> pour sa première traduction de la syntaxe Markdown de <a title="John Gruber" href="http://daringfireball.net/projects/markdown/syntax">John Gruber</a> dont cet article est largement inspiré.]]></content:encoded>
+Merci à <a href="http://michelf.ca/accueil/">Michel Fortin</a> pour sa première traduction de la syntaxe Markdown de <a href="http://daringfireball.net/projects/markdown/syntax">John Gruber</a> dont cet article est largement inspiré.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1456</wp:post_id>
 		<wp:post_date>2013-01-10 16:01:28</wp:post_date>
