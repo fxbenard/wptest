@@ -20,9 +20,9 @@ Suivez les étapes suivantes pour importer les données de WP Test en français 
 3. Lancez votre site WordPress.
 4. Direction `Outils > Importer` dans votre administration de WordPress.
 5. Cliquez sur `WordPress` et installez l'extension [WordPress Importer](http://wordpress.org/extend/plugins/wordpress-importer/), si ce n'est déjà fait, et cliquez `Activer & Lancez l'mmportation` après l'installation terminée.
-6. Choisissez le fichier `wptest.xml` que vous avez extrait du zip à l'étape 2 and cliquez `Envoyer le fichier et importer`.
+6. Choisissez le fichier `wptest.xml` que vous avez extrait du zip à l'étape 2 et cliquez `Envoyer le fichier et importer`.
 7. Sur l'écran suivant, ne changez ou ne réassignez aucun auteur et cochez bien `Télécharger et importer les fichiers joints` avant de cliquez sur `Envoyer`.
-8. Laissez le processus d'importation s'effectuer entièrement. *Ne fermez pas la fenêtre/ onglet et ne partez pas de la page pendant l'importation.* Cela peut-être un peu long, mais comme on entend souvent, plus c'est long plus c'est bon, non? Vous devriez voir le message `Voilà c'est fait, amusez-vous !` à la fin de l'importation.
+8. Laissez le processus d'importation s'effectuer entièrement. *Ne fermez pas la fenêtre/ onglet et ne partez pas de la page pendant l'importation.* Cela peut-être un peu long, mais comme on entend souvent, plus c'est long plus c'est bon, non ? Vous devriez voir le message `Voilà c'est fait, amusez-vous !` à la fin de l'importation.
 8. Testez, testez et testez encore et surtout [contribuer](https://github.com/fxbenard/wptest) pour améliorer les tests.
 
 ### Avec le script wp-cli
