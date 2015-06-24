@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Installation Script de WPTest en français.
+# script d'installation de WPTest en français.
 # http://wptest.fxbenard.com/
 #
 # Note: Ce script assume que vous avez wp-cli installé.
