@@ -1,12 +1,26 @@
 {
-	"name"       : "manovotny/wptest",
-	"description": "The Best Tests For WordPress",
-	"homepage"   : "http://wptest.io/",
-	"license"    : "GPL-3.0+",
-	"authors"    : [
-		{
-			"name"    : "Michael Novotny",
-			"homepage": "https://github.com/manovotny/"
-		}
-	]
+    "name": "fxbenard/wptest",
+    "version": "1.3.0",
+    "description": "WP Test en français - Les meilleurs tests pour WordPress.",
+    "type": "library",
+    "homepage": "http://wptest.fxbenard.com",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "data",
+        "export",
+        "import",
+        "tests",
+        "unit tests",
+        "wordpress",
+        "french",
+        "français"
+    ],
+    "authors": [
+        {
+            "name": "FX Bénard",
+            "email": "fx@fxbenard.com",
+            "homepage": "https://fxbenard.com",
+            "role": "Developer"
+        }
+    ]
 }
