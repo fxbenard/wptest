@@ -1,6 +1,10 @@
 # Changelog
 
-## 1.2 (26 Février 2014)
+## 1.3 (24 juin 2015)
+
+* Traduction française initial commit.
+
+## 1.2 (26 février 2014)
 
 * Traduction française initial commit.
 
