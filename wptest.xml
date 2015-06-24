@@ -16,15 +16,15 @@
 <!-- 7. WordPress importera tous les articles, pages, commentaires, catégories, etc. -->
 <!--    contenu dans ce fichier dans votre site. -->
 
-<!-- generator="WordPress/3.8.1" created="2014-02-23 16:39" -->
+<!-- generator="WordPress/4.2.2" created="2015-06-24 14:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:wp="http://wordpress.org/export/1.2/"
-	>
-	
+>
+
 <channel>
 	<title>WP Test en français</title>
 	<link>http://wptest.fxbenard.com</link>
@@ -34,14 +34,14 @@
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://fxbenard.com/</wp:base_site_url>
 	<wp:base_blog_url>http://wptest.fxbenard.com</wp:base_blog_url>
-		
+
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>fxbenard</wp:author_login><wp:author_email>fxb@wp-translations.org</wp:author_email><wp:author_display_name><![CDATA[FX Bénard]]></wp:author_display_name><wp:author_first_name><![CDATA[FX]]></wp:author_first_name><wp:author_last_name><![CDATA[Bénard]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>boiteaweb</wp:author_login><wp:author_email>julio@boiteaweb.fr</wp:author_email><wp:author_display_name><![CDATA[BoiteAWeb]]></wp:author_display_name><wp:author_first_name><![CDATA[Julio]]></wp:author_first_name><wp:author_last_name><![CDATA[Potier]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>3</wp:author_id><wp:author_login>jennybeaumont</wp:author_login><wp:author_email>emailme@jennybeaumont.com</wp:author_email><wp:author_display_name><![CDATA[Jenny Beaumont]]></wp:author_display_name><wp:author_first_name><![CDATA[Jenny]]></wp:author_first_name><wp:author_last_name><![CDATA[Beaumont]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>4</wp:author_id><wp:author_login>remicorson</wp:author_login><wp:author_email>remicorson@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Rémi Corson]]></wp:author_display_name><wp:author_first_name><![CDATA[Rémi]]></wp:author_first_name><wp:author_last_name><![CDATA[Corson]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>5</wp:author_id><wp:author_login>benjaminlupu</wp:author_login><wp:author_email>benjamin.lupu@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Benjamin Lupu]]></wp:author_display_name><wp:author_first_name><![CDATA[Benjamin]]></wp:author_first_name><wp:author_last_name><![CDATA[Lupu]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>6</wp:author_id><wp:author_login>gregoirenoyelle</wp:author_login><wp:author_email>hello@gregoirenoyelle.com</wp:author_email><wp:author_display_name><![CDATA[Grégoire Noyelle]]></wp:author_display_name><wp:author_first_name><![CDATA[Grégoire]]></wp:author_first_name><wp:author_last_name><![CDATA[Noyelle]]></wp:author_last_name></wp:author>
-		
+
 	<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename>alignement</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Alignement]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent l'image et l'alignement de texte.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>balise</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Balise]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les balises de style.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>4</wp:term_id><wp:category_nicename>balise-more</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Balise More]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie teste la fonctionnalité more.]]></wp:category_description></wp:category>
@@ -60,7 +60,7 @@
 	<wp:category><wp:term_id>17</wp:term_id><wp:category_nicename>formats-d-article</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Formats d'article]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les types d'article.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>18</wp:term_id><wp:category_nicename>format-d-article-galerie</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Galerie]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent le type d'article galerie.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>19</wp:term_id><wp:category_nicename>images</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Images]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les images dans tous les sens.]]></wp:category_description></wp:category>
-	<wp:category><wp:term_id>20</wp:term_id><wp:category_nicename>images-a-la-une</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Images à la une]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les images à la une.]]></wp:category_description></wp:category>
+	<wp:category><wp:term_id>20</wp:term_id><wp:category_nicename>images-a-la-une</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Images à la une]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les images à la Une.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>21</wp:term_id><wp:category_nicename>integration</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Intégration]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les différents codes pour intégrer du contenu.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>22</wp:term_id><wp:category_nicename>jetpack</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Jetpack]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les fonctionnalités de Jetpack.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>23</wp:term_id><wp:category_nicename>legendes</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Légendes]]></wp:cat_name><wp:category_description><![CDATA[Les articles de cette catégorie testent les légendes d'images.]]></wp:category_description></wp:category>
@@ -84,25 +84,25 @@
 	<wp:category><wp:term_id>40</wp:term_id><wp:category_nicename>categorie-enfant-04</wp:category_nicename><wp:category_parent>categorie-parente</wp:category_parent><wp:cat_name><![CDATA[Catégorie enfant 04]]></wp:cat_name><wp:category_description><![CDATA[C'est la description pour la catégorie enfant 04.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>41</wp:term_id><wp:category_nicename>categorie-enfant-05</wp:category_nicename><wp:category_parent>categorie-parente</wp:category_parent><wp:cat_name><![CDATA[Catégorie enfant 05]]></wp:cat_name><wp:category_description><![CDATA[C'est la description pour la catégorie enfant 05.]]></wp:category_description></wp:category>
 	<wp:category><wp:term_id>42</wp:term_id><wp:category_nicename>categorie-petit-enfant</wp:category_nicename><wp:category_parent>categorie-enfant-03</wp:category_parent><wp:cat_name><![CDATA[Catégorie petit enfant]]></wp:cat_name><wp:category_description><![CDATA[C'est la description pour la catégorie petit-enfant.]]></wp:category_description></wp:category>
-	<wp:tag><wp:term_id>43</wp:term_id><wp:tag_slug>alire</wp:tag_slug><wp:tag_name><![CDATA[À lire]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles que vous devez absolument lire.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>44</wp:term_id><wp:tag_slug>amour</wp:tag_slug><wp:tag_name><![CDATA[Amour]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant l'amour.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>45</wp:term_id><wp:tag_slug>articles</wp:tag_slug><wp:tag_name><![CDATA[Articles]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant les articles.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>46</wp:term_id><wp:tag_slug>touche</wp:tag_slug><wp:tag_name><![CDATA[Dans le mille]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant tout ce qui est dans le mille.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>47</wp:term_id><wp:tag_slug>drole</wp:tag_slug><wp:tag_name><![CDATA[Drôle]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant ce qui est drole.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>48</wp:term_id><wp:tag_slug>echec</wp:tag_slug><wp:tag_name><![CDATA[Échec]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant l'échec.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>49</wp:term_id><wp:tag_slug>fonctionne</wp:tag_slug><wp:tag_name><![CDATA[Fonctionne]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles pour #ça marche.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>43</wp:term_id><wp:tag_slug>alire</wp:tag_slug><wp:tag_name><![CDATA[À lire]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles que vous devez absolument lire.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>44</wp:term_id><wp:tag_slug>amour</wp:tag_slug><wp:tag_name><![CDATA[Amour]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant l'amour.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>45</wp:term_id><wp:tag_slug>articles</wp:tag_slug><wp:tag_name><![CDATA[Articles]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant les articles.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>46</wp:term_id><wp:tag_slug>touche</wp:tag_slug><wp:tag_name><![CDATA[Dans le mille]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant tout ce qui est dans le mille.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>47</wp:term_id><wp:tag_slug>drole</wp:tag_slug><wp:tag_name><![CDATA[Drôle]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant ce qui est drôle.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>48</wp:term_id><wp:tag_slug>echec</wp:tag_slug><wp:tag_name><![CDATA[Échec]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant l'échec.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>50</wp:term_id><wp:tag_slug>etiquettes</wp:tag_slug><wp:tag_name><![CDATA[Étiquettes]]></wp:tag_name><wp:tag_description><![CDATA[Des étiquettes sur des étiquettes.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>49</wp:term_id><wp:tag_slug>fonctionne</wp:tag_slug><wp:tag_name><![CDATA[Fonctionne]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles pour #ça marche.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>19</wp:term_id><wp:tag_slug>images</wp:tag_slug><wp:tag_name><![CDATA[Images]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>50</wp:term_id><wp:tag_slug>mots-clefs</wp:tag_slug><wp:tag_name><![CDATA[Mots-clefs]]></wp:tag_name><wp:tag_description><![CDATA[Des mots-clefs sur les mots-clés.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>51</wp:term_id><wp:tag_slug>nailedit</wp:tag_slug><wp:tag_name><![CDATA[Nailed It]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>52</wp:term_id><wp:tag_slug>pas-vu</wp:tag_slug><wp:tag_name><![CDATA[Non vu]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles qui n'ont pas été encore lu.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>52</wp:term_id><wp:tag_slug>pas-vu</wp:tag_slug><wp:tag_name><![CDATA[Non vu]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles qui n'ont pas été encore lue.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>53</wp:term_id><wp:tag_slug>photos</wp:tag_slug><wp:tag_name><![CDATA[Photos]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:term_id>54</wp:term_id><wp:tag_slug>plv</wp:tag_slug><wp:tag_name><![CDATA[PLV]]></wp:tag_name><wp:tag_description><![CDATA[La traduction du FTV "For The Victory" anglais.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>55</wp:term_id><wp:tag_slug>succes</wp:tag_slug><wp:tag_name><![CDATA[Succès]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant la réussite.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>55</wp:term_id><wp:tag_slug>succes</wp:tag_slug><wp:tag_name><![CDATA[Succès]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant la réussite.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>56</wp:term_id><wp:tag_slug>success</wp:tag_slug><wp:tag_name><![CDATA[Succès]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>57</wp:term_id><wp:tag_slug>swagger</wp:tag_slug><wp:tag_name><![CDATA[Swagger]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles pour #swagger.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>58</wp:term_id><wp:tag_slug>vaisseau-mere</wp:tag_slug><wp:tag_name><![CDATA[Vaisseau-mère]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles concernant le vaisseau-mère.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>59</wp:term_id><wp:tag_slug>wordpress</wp:tag_slug><wp:tag_name><![CDATA[WordPress]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs d'articles relatifs à WordPress.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>60</wp:term_id><wp:tag_slug>wp-translations</wp:tag_slug><wp:tag_name><![CDATA[WP-T]]></wp:tag_name><wp:tag_description><![CDATA[Mots-clefs concernant WP-Translations.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>57</wp:term_id><wp:tag_slug>swagger</wp:tag_slug><wp:tag_name><![CDATA[Swagger]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles pour #swagger.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>58</wp:term_id><wp:tag_slug>vaisseau-mere</wp:tag_slug><wp:tag_name><![CDATA[Vaisseau-mère]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant le vaisseau-mère.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>59</wp:term_id><wp:tag_slug>wordpress</wp:tag_slug><wp:tag_name><![CDATA[WordPress]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles relatifs à WordPress.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>60</wp:term_id><wp:tag_slug>wp-translations</wp:tag_slug><wp:tag_name><![CDATA[WP-T]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes concernant WP-Translations.]]></wp:tag_description></wp:tag>
 	<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu-long</wp:term_slug><wp:term_name><![CDATA[Menu long]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>62</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu-de-test</wp:term_slug><wp:term_name><![CDATA[Menu de test]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>63</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu-vide</wp:term_slug><wp:term_name><![CDATA[Menu vide]]></wp:term_name></wp:term>
@@ -7075,7 +7075,7 @@ Si votre thème est compatible avec les commentaires sur les pages, ils devraien
 			<wp:comment_author_IP>24.126.245.62</wp:comment_author_IP>
 			<wp:comment_date>2013-03-15 18:16:59</wp:comment_date>
 			<wp:comment_date_gmt>2013-03-15 17:16:59</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hé, Biloute ! Fait comme si tu lisais ce commentaire avec un accent t'chi.]]></wp:comment_content>
+			<wp:comment_content><![CDATA[Hé, Biloute ! Fait comme si tu lisais ce commentaire avec un accent ch'ti.]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -9733,7 +9733,7 @@ Alors seulement tu pourras donner vie... aux mots.]]></content:encoded>
 		<content:encoded><![CDATA[[wpvideo tFnqC9XQ w=680]
 
 <a title="L'extension VideoPress pour WordPress" href="http://videopress.com/" target="_blank">VideoPress</a>, spécialement avec le format d'article vidéo, fournit généralement un style d'affichage particulier.
- 
+
 Vous devez installer l'extension <a title="Jetpack pour WordPress" href="http://jetpack.me/" target="_blank">Jetpack</a> ou <a title="Slim Jetpack" href="http://wordpress.org/extend/plugins/slimjetpack/" target="_blank">Slim Jetpack</a> pour que le raccourci fonctionne.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1005</wp:post_id>
@@ -11207,17 +11207,17 @@ Facultativement, vous pouvez « fermer » les titres de style atx. C’est purem
 Comme pour le courrier électronique, Markdown utilise le caractère <code>&gt;</code> pour délimiter les blocs de citation. Si vous êtes familier avec le format de citation du courrier électronique, alors vous savez comment créer un bloc de citation avec Markdown. Le résultat est plus joli si le texte est écrit avec des sauts de ligne manuels et un <code>&gt;</code> au début de chaque ligne :
 
 <blockquote>
-  Ceci est un bloc de citation avec deux paragraphes. 
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+  Ceci est un bloc de citation avec deux paragraphes.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
   Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-  
+
   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
   Suspendisse id sem consectetuer libero luctus adipiscing.
 </blockquote>
 
-<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes. 
-&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
-&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 
+<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes.
+&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 &gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 &gt;Suspendisse id sem consectetuer libero luctus adipiscing.
@@ -11226,19 +11226,19 @@ Comme pour le courrier électronique, Markdown utilise le caractère <code>&gt;<
 Markdown vous permet cependant d’être paresseux et de n’écrire qu’un seul <code>&gt;</code> au début de la première ligne d’un paragraphe à sauts de ligne manuels :
 
 <blockquote>
-  Ceci est un bloc de citation avec deux paragraphes. 
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+  Ceci est un bloc de citation avec deux paragraphes.
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
   Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-  
-  Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+
+  Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
   Suspendisse id sem consectetuer libero luctus adipiscing.
 </blockquote>
 
-<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes. 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. 
+<pre><code>&gt; Ceci est un bloc de citation avec deux paragraphes.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
 </code></pre>
 
@@ -11246,11 +11246,11 @@ Les blocs de citation peuvent être imbriqués (c’est à dire qu’on a un blo
 
 <blockquote>
   Ceci est le premier niveau de citation.
-  
+
   <blockquote>
     Ceci est un bloc de citation imbriqué.
   </blockquote>
-  
+
   Retour au premier niveau.
 </blockquote>
 
@@ -11265,14 +11265,14 @@ Les blocs de citation peuvent contenir d’autres éléments de Markdown, comme 
 
 <blockquote>
   <h2>Ceci est un titre.</h2>
-  
+
   <ol>
   <li>Ceci est le premier élément d’une liste.</li>
   <li>Ceci est le second élément d’une liste.</li>
   </ol>
-  
+
   Voici un exemple de code :
-  
+
   return shell_exec(« echo $input | $markdown_script »);
 </blockquote>
 
@@ -11361,29 +11361,29 @@ Pour écrire une liste qui se lit bien, vous pouvez ajouter une indentation apr�
 <ul>
 <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p></li>
-<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
 </ul>
 
 <p>Mais si vous préférez vous éviter du travail, vous n’avez pas à le faire :
 
 <ul>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p></li>
-<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+<li><p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.</p></li>
 </ul>
 
-<pre>*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. 
+<pre>*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
        Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit. 
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
        Suspendisse id sem consectetuer libero luctus adipiscing.</pre>
 
 <p>Si les éléments de la liste sont séparés par une ligne blanche, Markdown placera leur contenu à l’intérieur de balises dans la sortie HTML. Par exemple, cette entrée :
 
-<pre><code>* Oiseau 
-* Magie 
+<pre><code>* Oiseau
+* Magie
 </code></pre>
 
 sera changée en :
@@ -11409,8 +11409,8 @@ sera changé en :
 
 <p>Les éléments d’une liste peuvent être constitués de plusieurs paragraphes. Tous les paragraphes suivants le premier doivent à ce moment être indentés par 4 espaces ou une tabulation :
 
-<pre><code>1.  Ceci est un élément de la liste contenant deux paragraphes. 
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+<pre><code>1.  Ceci est un élément de la liste contenant deux paragraphes.
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
     Aliquam hendrerit mi posuere lectus.
 
     Vestibulum enim wisi, viverra nec, fringilla in, laoreet
@@ -11427,7 +11427,7 @@ Le résultat est plus beau si vous indentez toutes les lignes des paragraphes, m
     Ceci est le deuxième paragraphe dans l'élément. Vous
 </code></pre>
 
-n'avez besoin d'indenter que la première ligne. Lorem ipsum 
+n'avez besoin d'indenter que la première ligne. Lorem ipsum
 dolor sit amet, consectetuer adipiscing elit.
 
 <pre><code>*   Un autre élément dans la même liste.
@@ -11552,7 +11552,7 @@ titre.
 
 Si vous faites référence à une ressource locale sur le même serveur, vous pouvez utiliser un chemin relatif :
 
-<pre><code>Voir ma page [Description](/description/) pour les détails. 
+<pre><code>Voir ma page [Description](/description/) pour les détails.
 </code></pre>
 
 Les liens par référence utilisent une deuxième paire de crochets, à l’intérieur desquels vous placez une étiquette pour identifier le lien :
@@ -11628,7 +11628,7 @@ En utilisant les noms de liens implicites, vous pourriez écrire :
 
   [google]: http://google.com/        "Google"
   [yahoo]: http://search.yahoo.com/  "Yahoo Search"
-  [bing]: http://bing.com/    "Bing Search" 
+  [bing]: http://bing.com/    "Bing Search"
 </code></pre>
 
 Les deux exemples ci-dessus produiront le code HTML suivant :
@@ -11669,7 +11669,7 @@ produira :
 
 Vous pouvez utiliser le style que vous préférez; la seule restriction est que le même caractère doit être utilisé pour ouvrir et fermer l’emphase. L’emphase peut être utilisée au milieu d’un mot :
 
-<pre><code>un*fucking*believable 
+<pre><code>un*fucking*believable
 </code></pre>
 
 Mais si vous placez un <code>*</code> ou <code>_</code> entre deux espaces, il sera traité littéralement comme un astérisque ou un trait de soulignement. Pour produire un astérisque littéral à un endroit où il serait autrement utilisé comme délimiteur d’emphase, vous pouvez l’échapper à l’aide d’une barre oblique inverse :
@@ -11753,7 +11753,7 @@ C’est à dire :
 
 La syntaxe pour les images par référence ressemble à ceci :
 
-<pre><code>![Texte alternatif][id] 
+<pre><code>![Texte alternatif][id]
 </code></pre>
 
 Où « id » est le nom de la référence de l’image. Les références sont définies en utilisant la même syntaxe que celle des liens par référence :
@@ -11794,7 +11794,7 @@ ce qui sera affiché par le navigateur comme un lien cliquable vers « adresse@e
 
 Markdown vous permet d’utiliser une barre oblique inverse <code>\</code> pour générer des caractères littéraux qui auraient autrement une autre signification dans la syntaxe de Markdown. Par exemple, si vous voulez entourer un mot avec des astérisques (sans créer de balise HTML <code>&lt;em&gt;</code>), ajoutez une barre oblique inverse devant l’astérisque, comme ceci :
 
-<pre><code>*astérisques littéraux* 
+<pre><code>*astérisques littéraux*
 </code></pre>
 
 Markdown permet d’échapper les caractères suivants :
