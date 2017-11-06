@@ -27,13 +27,13 @@
 
 <channel>
 	<title>WP Test en français</title>
-	<link>http://wptest.fxbenard.com</link>
+	<link>https://wptest.fxbenard.com</link>
 	<description>Les meilleurs tests pour WordPress</description>
 	<pubDate>Sun, 23 Feb 2014 16:39:20 +0000</pubDate>
 	<language>fr-FR</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://fxbenard.com/</wp:base_site_url>
-	<wp:base_blog_url>http://wptest.fxbenard.com</wp:base_blog_url>
+	<wp:base_site_url>https://fxbenard.com/</wp:base_site_url>
+	<wp:base_blog_url>https://wptest.fxbenard.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>fxbenard</wp:author_login><wp:author_email>fxb@wp-translations.org</wp:author_email><wp:author_display_name><![CDATA[FX Bénard]]></wp:author_display_name><wp:author_first_name><![CDATA[FX]]></wp:author_first_name><wp:author_last_name><![CDATA[Bénard]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>boiteaweb</wp:author_login><wp:author_email>julio@boiteaweb.fr</wp:author_email><wp:author_display_name><![CDATA[BoiteAWeb]]></wp:author_display_name><wp:author_first_name><![CDATA[Julio]]></wp:author_first_name><wp:author_last_name><![CDATA[Potier]]></wp:author_last_name></wp:author>
@@ -101,7 +101,7 @@
 	<wp:tag><wp:term_id>56</wp:term_id><wp:tag_slug>success</wp:tag_slug><wp:tag_name><![CDATA[Succès]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:term_id>57</wp:term_id><wp:tag_slug>swagger</wp:tag_slug><wp:tag_name><![CDATA[Swagger]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles pour #swagger.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>58</wp:term_id><wp:tag_slug>vaisseau-mere</wp:tag_slug><wp:tag_name><![CDATA[Vaisseau-mère]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles concernant le vaisseau-mère.]]></wp:tag_description></wp:tag>
-	<wp:tag><wp:term_id>59</wp:term_id><wp:tag_slug>wordpress</wp:tag_slug><wp:tag_name><![CDATA[WordPress]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d'articles relatifs à WordPress.]]></wp:tag_description></wp:tag>
+	<wp:tag><wp:term_id>59</wp:term_id><wp:tag_slug>wordpress</wp:tag_slug><wp:tag_name><![CDATA[WordPress]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes d’articles relatifs à WordPress.]]></wp:tag_description></wp:tag>
 	<wp:tag><wp:term_id>60</wp:term_id><wp:tag_slug>wp-translations</wp:tag_slug><wp:tag_name><![CDATA[WP-T]]></wp:tag_name><wp:tag_description><![CDATA[Étiquettes concernant WP-Translations.]]></wp:tag_description></wp:tag>
 	<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu-long</wp:term_slug><wp:term_name><![CDATA[Menu long]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>62</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu-de-test</wp:term_slug><wp:term_name><![CDATA[Menu de test]]></wp:term_name></wp:term>
@@ -111,10 +111,10 @@
 
 	<item>
 				<title>canola2</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/canola2/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/canola2/</link>
 		<pubDate>Mon, 10 Jan 2011 13:17:54 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/canola2.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/canola2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.]]></excerpt:encoded>
@@ -130,7 +130,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/canola2.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/canola2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/canola2.jpg]]></wp:meta_value>
@@ -146,10 +146,10 @@
 	</item>
 	<item>
 				<title>dsc20050315_145007_132</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050315_145007_132/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050315_145007_132/</link>
 		<pubDate>Mon, 10 Jan 2011 13:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/dsc20050315_145007_132.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/dsc20050315_145007_132.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -165,7 +165,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/dsc20050315_145007_132.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/dsc20050315_145007_132.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050315_145007_132.jpg]]></wp:meta_value>
@@ -181,10 +181,10 @@
 	</item>
 	<item>
 				<title>dsc20050727_091048_222</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050727_091048_222/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050727_091048_222/</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:37 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/dsc20050727_091048_222.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/dsc20050727_091048_222.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -200,7 +200,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/dsc20050727_091048_222.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/dsc20050727_091048_222.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050727_091048_222.jpg]]></wp:meta_value>
@@ -216,10 +216,10 @@
 	</item>
 	<item>
 				<title>dsc20050813_115856_52</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050813_115856_52/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050813_115856_52/</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/dsc20050813_115856_52.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/dsc20050813_115856_52.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -235,7 +235,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/dsc20050813_115856_52.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/dsc20050813_115856_52.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050813_115856_52.jpg]]></wp:meta_value>
@@ -251,10 +251,10 @@
 	</item>
 	<item>
 				<title>dsc20050831_165238_332</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050831_165238_332/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050831_165238_332/</link>
 		<pubDate>Mon, 10 Jan 2011 13:21:14 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/dsc20050831_165238_332.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/dsc20050831_165238_332.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -270,7 +270,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/dsc20050831_165238_332.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/dsc20050831_165238_332.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050831_165238_332.jpg]]></wp:meta_value>
@@ -286,10 +286,10 @@
 	</item>
 	<item>
 				<title>dsc20050901_105100_212</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050901_105100_212/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050901_105100_212/</link>
 		<pubDate>Mon, 10 Jan 2011 13:21:50 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/01/dsc20050901_105100_212.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/01/dsc20050901_105100_212.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Seed pods on stem, Woodvale]]></excerpt:encoded>
@@ -305,7 +305,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/01/dsc20050901_105100_212.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/01/dsc20050901_105100_212.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/01/dsc20050901_105100_212.jpg]]></wp:meta_value>
@@ -321,10 +321,10 @@
 	</item>
 	<item>
 				<title>Bell on Wharf</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/100_5478/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/100_5478/</link>
 		<pubDate>Fri, 15 Jul 2011 21:34:50 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/100_5478.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/100_5478.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5540.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Bell on wharf in San Francisco]]></excerpt:encoded>
@@ -340,7 +340,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/100_5478.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/100_5478.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/100_5478.jpg]]></wp:meta_value>
@@ -356,10 +356,10 @@
 	</item>
 	<item>
 				<title>Golden Gate Bridge</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/100_5540/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/100_5540/</link>
 		<pubDate>Fri, 15 Jul 2011 21:35:55 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/100_5540.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/100_5540.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5478.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Golden Gate Bridge]]></excerpt:encoded>
@@ -375,7 +375,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/100_5540.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/100_5540.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/100_5540.jpg]]></wp:meta_value>
@@ -391,10 +391,10 @@
 	</item>
 	<item>
 				<title>Sunburst Over River</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/cep00032/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/cep00032/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:24 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/cep00032.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/cep00032.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/CEP00032.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunburst over the Clinch River, Southwest Virginia.]]></excerpt:encoded>
@@ -410,7 +410,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/cep00032.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/cep00032.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/cep00032.jpg]]></wp:meta_value>
@@ -426,10 +426,10 @@
 	</item>
 	<item>
 				<title>Boardwalk</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dcp_2082/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dcp_2082/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:27 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dcp_2082.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dcp_2082.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/DCP_2082.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boardwalk at Westport, WA]]></excerpt:encoded>
@@ -445,7 +445,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dcp_2082.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dcp_2082.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dcp_2082.jpg]]></wp:meta_value>
@@ -461,10 +461,10 @@
 	</item>
 	<item>
 				<title>Yachtsody in Blue</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc03149/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc03149/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:33 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc03149.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc03149.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc03149.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boats and reflections, Royal Perth Yacht Club]]></excerpt:encoded>
@@ -480,7 +480,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc03149.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc03149.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc03149.jpg]]></wp:meta_value>
@@ -496,10 +496,10 @@
 	</item>
 	<item>
 				<title>Rain Ripples</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc04563/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc04563/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:37 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc04563.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc04563.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc04563.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Raindrop ripples on a pond]]></excerpt:encoded>
@@ -515,7 +515,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc04563.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc04563.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc04563.jpg]]></wp:meta_value>
@@ -531,10 +531,10 @@
 	</item>
 	<item>
 				<title>Sydney Harbor Bridge</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc09114/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc09114/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:41 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc09114.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc09114.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc09114.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sydney Harbor Bridge]]></excerpt:encoded>
@@ -550,7 +550,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc09114.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc09114.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc09114.jpg]]></wp:meta_value>
@@ -566,10 +566,10 @@
 	</item>
 	<item>
 				<title>Wind Farm</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050102_192118_51/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050102_192118_51/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:42 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc20050102_192118_51.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc20050102_192118_51.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_51.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Albany wind-farm against the sunset, Western Australia]]></excerpt:encoded>
@@ -585,7 +585,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc20050102_192118_51.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc20050102_192118_51.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20050102_192118_51.jpg]]></wp:meta_value>
@@ -601,10 +601,10 @@
 	</item>
 	<item>
 				<title>Antique Farm Machinery</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20051220_160808_102/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20051220_160808_102/</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc20051220_160808_102.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc20051220_160808_102.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_160808_102.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Antique farm machinery, Mount Barker Museum, Western Australia]]></excerpt:encoded>
@@ -620,7 +620,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc20051220_160808_102.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc20051220_160808_102.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20051220_160808_102.jpg]]></wp:meta_value>
@@ -636,10 +636,10 @@
 	</item>
 	<item>
 				<title>Orange Iris</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc02085/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc02085/</link>
 		<pubDate>Fri, 15 Jul 2011 21:46:27 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc02085.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc02085.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25895]]></content:encoded>
 		<excerpt:encoded><![CDATA[Orange Iris]]></excerpt:encoded>
@@ -655,7 +655,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc02085.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc02085.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc02085.jpg]]></wp:meta_value>
@@ -671,10 +671,10 @@
 	</item>
 	<item>
 				<title>Rusty Rail</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20051220_173257_119/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20051220_173257_119/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:17 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dsc20051220_173257_119.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dsc20051220_173257_119.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_173257_119.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Rusty rails with fishplate, Kojonup]]></excerpt:encoded>
@@ -690,7 +690,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dsc20051220_173257_119.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dsc20051220_173257_119.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dsc20051220_173257_119.jpg]]></wp:meta_value>
@@ -706,10 +706,10 @@
 	</item>
 	<item>
 				<title>Sea and Rocks</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dscn3316/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dscn3316/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/dscn3316.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/dscn3316.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dscn3316.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sea and rocks, Plimmerton, New Zealand]]></excerpt:encoded>
@@ -725,7 +725,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/dscn3316.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/dscn3316.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/dscn3316.jpg]]></wp:meta_value>
@@ -741,10 +741,10 @@
 	</item>
 	<item>
 				<title>Big Sur</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/michelle_049/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/michelle_049/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:23 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/michelle_049.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/michelle_049.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/michelle_049.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Beach at Big Sur, CA]]></excerpt:encoded>
@@ -760,7 +760,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/michelle_049.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/michelle_049.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/michelle_049.jpg]]></wp:meta_value>
@@ -776,10 +776,10 @@
 	</item>
 	<item>
 				<title>Windmill</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dcf-1-0/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dcf-1-0/</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/windmill.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/windmill.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/Windmill.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Windmill shrouded in fog at a farm outside of Walker, Iowa]]></excerpt:encoded>
@@ -795,7 +795,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/windmill.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/windmill.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/windmill.jpg]]></wp:meta_value>
@@ -811,10 +811,10 @@
 	</item>
 	<item>
 				<title>Huatulco Coastline</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/alas-i-have-found-my-shangri-la/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/alas-i-have-found-my-shangri-la/</link>
 		<pubDate>Fri, 15 Jul 2011 21:49:48 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/img_0513.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/img_0513.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunrise over the coast in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -830,7 +830,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/img_0513.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/img_0513.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0513.jpg]]></wp:meta_value>
@@ -846,10 +846,10 @@
 	</item>
 	<item>
 				<title>Brazil Beach</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/img_0747/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/img_0747/</link>
 		<pubDate>Fri, 15 Jul 2011 21:50:37 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/img_0747.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/img_0747.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
 		<excerpt:encoded><![CDATA[Jericoacoara Ceara Brasil]]></excerpt:encoded>
@@ -865,7 +865,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/img_0747.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/img_0747.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0747.jpg]]></wp:meta_value>
@@ -881,10 +881,10 @@
 	</item>
 	<item>
 				<title>Huatulco Coastline</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/img_0767/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/img_0767/</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:19 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/img_0767.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/img_0767.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0767.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Coastline in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -900,7 +900,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/img_0767.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/img_0767.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_0767.jpg]]></wp:meta_value>
@@ -916,10 +916,10 @@
 	</item>
 	<item>
 				<title>Boat Barco Texture</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/img_8399/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/img_8399/</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2011/07/img_8399.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2011/07/img_8399.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25774]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boat BW PB Barco Texture Beautiful Fishing]]></excerpt:encoded>
@@ -935,7 +935,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2011/07/img_8399.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2011/07/img_8399.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2011/07/img_8399.jpg]]></wp:meta_value>
@@ -951,10 +951,10 @@
 	</item>
 	<item>
 				<title>dsc20040724_152504_532</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20040724_152504_532-2/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20040724_152504_532-2/</link>
 		<pubDate>Mon, 04 Jun 2012 18:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2012/06/dsc20040724_152504_532.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2012/06/dsc20040724_152504_532.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -970,7 +970,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2012/06/dsc20040724_152504_532.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2012/06/dsc20040724_152504_532.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/06/dsc20040724_152504_532.jpg]]></wp:meta_value>
@@ -982,10 +982,10 @@
 	</item>
 	<item>
 				<title>dsc20050604_133440_3421</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/dsc20050604_133440_3421/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/dsc20050604_133440_3421/</link>
 		<pubDate>Mon, 04 Jun 2012 18:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2012/06/dsc20050604_133440_3421.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2012/06/dsc20050604_133440_3421.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1001,7 +1001,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2012/06/dsc20050604_133440_3421.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2012/06/dsc20050604_133440_3421.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/06/dsc20050604_133440_3421.jpg]]></wp:meta_value>
@@ -1013,10 +1013,10 @@
 	</item>
 	<item>
 				<title>OLYMPUS DIGITAL CAMERA</title>
-		<link>http://wptest.fxbenard.com/?attachment_id=827</link>
+		<link>https://wptest.fxbenard.com/?attachment_id=827</link>
 		<pubDate>Thu, 05 Jul 2012 18:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2012/07/manhattansummer.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2012/07/manhattansummer.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1032,7 +1032,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2012/07/manhattansummer.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2012/07/manhattansummer.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/07/manhattansummer.jpg]]></wp:meta_value>
@@ -1044,10 +1044,10 @@
 	</item>
 	<item>
 				<title>I Am Worth Loving Wallpaper</title>
-		<link>http://wptest.fxbenard.com/?attachment_id=842</link>
+		<link>https://wptest.fxbenard.com/?attachment_id=842</link>
 		<pubDate>Thu, 14 Mar 2013 14:58:24 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/soworthloving-wallpaper.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/soworthloving-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1063,7 +1063,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/soworthloving-wallpaper.jpg]]></wp:meta_value>
@@ -1079,10 +1079,10 @@
 	</item>
 	<item>
 				<title>Image alignement 150x150</title>
-		<link>http://wptest.fxbenard.com/alignement-image/image-alignement-150x150/</link>
+		<link>https://wptest.fxbenard.com/alignement-image/image-alignement-150x150/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1098,7 +1098,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignement-150x150.jpg]]></wp:meta_value>
@@ -1118,10 +1118,10 @@
 	</item>
 	<item>
 				<title>Image alignement 300x200</title>
-		<link>http://wptest.fxbenard.com/alignement-image/image-alignement-300x200/</link>
+		<link>https://wptest.fxbenard.com/alignement-image/image-alignement-300x200/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1137,7 +1137,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignement-300x200.jpg]]></wp:meta_value>
@@ -1157,10 +1157,10 @@
 	</item>
 	<item>
 				<title>Image alignement 580x300</title>
-		<link>http://wptest.fxbenard.com/alignement-image/image-alignement-580x300/</link>
+		<link>https://wptest.fxbenard.com/alignement-image/image-alignement-580x300/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1176,7 +1176,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignement-580x300.jpg]]></wp:meta_value>
@@ -1196,10 +1196,10 @@
 	</item>
 	<item>
 				<title>Image alignement 1200x4002</title>
-		<link>http://wptest.fxbenard.com/alignement-image/image-alignement-1200x4002/</link>
+		<link>https://wptest.fxbenard.com/alignement-image/image-alignement-1200x4002/</link>
 		<pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1215,7 +1215,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-alignement-1200x4002.jpg]]></wp:meta_value>
@@ -1235,10 +1235,10 @@
 	</item>
 	<item>
 				<title>Triforce Wallpaper</title>
-		<link>http://wptest.fxbenard.com/format-article-image-legende/triforce-wallpaper/</link>
+		<link>https://wptest.fxbenard.com/format-article-image-legende/triforce-wallpaper/</link>
 		<pubDate>Fri, 15 Mar 2013 03:04:43 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[It's dangerous to go alone! Take this.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1254,7 +1254,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/12/triforce-wallpaper.jpg]]></wp:meta_value>
@@ -1270,10 +1270,10 @@
 	</item>
 	<item>
 				<title>Eddy - Need (Remix)</title>
-		<link>http://wptest.fxbenard.com/format-article-son/eddy-need-remix/</link>
+		<link>https://wptest.fxbenard.com/format-article-son/eddy-need-remix/</link>
 		<pubDate>Fri, 15 Mar 2013 03:35:29 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1289,7 +1289,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/Eddy-Need-Remix.mp3]]></wp:meta_value>
@@ -1305,10 +1305,10 @@
 	</item>
 	<item>
 				<title>Image à la une horizontale</title>
-		<link>http://wptest.fxbenard.com/image-une-horizontale/image-a-la-une-horizontale/</link>
+		<link>https://wptest.fxbenard.com/image-une-horizontale/image-a-la-une-horizontale/</link>
 		<pubDate>Fri, 15 Mar 2013 20:40:38 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-a-la-une-horizontale.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-a-la-une-horizontale.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1324,7 +1324,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-a-la-une-horizontale.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-a-la-une-horizontale.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-a-la-une-horizontale.jpg]]></wp:meta_value>
@@ -1344,10 +1344,10 @@
 	</item>
 	<item>
 				<title>Image à la une verticale</title>
-		<link>http://wptest.fxbenard.com/image-une-verticale/image-a-la-une-verticale/</link>
+		<link>https://wptest.fxbenard.com/image-une-verticale/image-a-la-une-verticale/</link>
 		<pubDate>Fri, 15 Mar 2013 20:41:09 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/image-a-la-une-verticale.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/image-a-la-une-verticale.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1363,7 +1363,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/image-a-la-une-verticale.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/image-a-la-une-verticale.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/image-a-la-une-verticale.jpg]]></wp:meta_value>
@@ -1383,10 +1383,10 @@
 	</item>
 	<item>
 				<title>Captain America</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/captain-america/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/captain-america/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:02 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/captain-america.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/captain-america.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1402,7 +1402,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/captain-america.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/captain-america.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/captain-america.jpg]]></wp:meta_value>
@@ -1422,10 +1422,10 @@
 	</item>
 	<item>
 				<title>Fight Club</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/fight-club/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/fight-club/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/fight-club.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/fight-club.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1441,7 +1441,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/fight-club.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/fight-club.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/fight-club.jpg]]></wp:meta_value>
@@ -1457,10 +1457,10 @@
 	</item>
 	<item>
 				<title>Iron Man 2</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/ironman-2/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/ironman-2/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/ironman-2.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/ironman-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1476,7 +1476,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/ironman-2.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/ironman-2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/ironman-2.jpg]]></wp:meta_value>
@@ -1492,10 +1492,10 @@
 	</item>
 	<item>
 				<title>Man Of Steel</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/man-of-steel/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/man-of-steel/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/man-of-steel.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/man-of-steel.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1511,7 +1511,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/man-of-steel.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/man-of-steel.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/man-of-steel.jpg]]></wp:meta_value>
@@ -1527,10 +1527,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1041/</link>
+		<link>https://wptest.fxbenard.com/1041/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1041/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1041/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent le format d'article en passant.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1582,10 +1582,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1042/</link>
+		<link>https://wptest.fxbenard.com/1042/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1042/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1042/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent le format d'article audio.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1637,10 +1637,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1043/</link>
+		<link>https://wptest.fxbenard.com/1043/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1043/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1043/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent les commentaires.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1692,10 +1692,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1044/</link>
+		<link>https://wptest.fxbenard.com/1044/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1044/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1044/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent des cas étranges et variés]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1747,10 +1747,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1045/</link>
+		<link>https://wptest.fxbenard.com/1045/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1045/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1045/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent différents codes d’intégration.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1802,10 +1802,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1046/</link>
+		<link>https://wptest.fxbenard.com/1046/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1046/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1046/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent les extraits d'articles.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1857,10 +1857,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1047/</link>
+		<link>https://wptest.fxbenard.com/1047/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1047/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1047/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent le format d'article galerie.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1912,10 +1912,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1048/</link>
+		<link>https://wptest.fxbenard.com/1048/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1048/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1048/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent les images dans tous les sens.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1967,10 +1967,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1049/</link>
+		<link>https://wptest.fxbenard.com/1049/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1049/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1049/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent les fonctionnaités de JetPack.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2022,10 +2022,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1050/</link>
+		<link>https://wptest.fxbenard.com/1050/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1050/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1050/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various list scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2077,10 +2077,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1051/</link>
+		<link>https://wptest.fxbenard.com/1051/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1051/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1051/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the more tag feature.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2132,10 +2132,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1052/</link>
+		<link>https://wptest.fxbenard.com/1052/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1052/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1052/</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is a parent category. It will contain child categories]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2187,10 +2187,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1053/</link>
+		<link>https://wptest.fxbenard.com/1053/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1053/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1053/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la Catégorie enfant 02.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2242,10 +2242,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1054/</link>
+		<link>https://wptest.fxbenard.com/1054/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:58 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1054/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1054/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la Catégorie enfant 03.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2297,10 +2297,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1055/</link>
+		<link>https://wptest.fxbenard.com/1055/</link>
 		<pubDate>Mon, 24 Feb 2014 15:58:58 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1055/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1055/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la catégorie petit-enfant.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2352,10 +2352,10 @@
 	</item>
 	<item>
 				<title>The Amazing Spider Man</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/spider-man/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/spider-man/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:08 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/spider-man.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/spider-man.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2371,7 +2371,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/spider-man.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/spider-man.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/spider-man.jpg]]></wp:meta_value>
@@ -2387,10 +2387,10 @@
 	</item>
 	<item>
 				<title>The Dark Knight Rises</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/the-dark-knight-rises/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/the-dark-knight-rises/</link>
 		<pubDate>Fri, 15 Mar 2013 22:27:09 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2013/03/the-dark-knight-rises.jpg</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2013/03/the-dark-knight-rises.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2406,7 +2406,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2013/03/the-dark-knight-rises.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2013/03/the-dark-knight-rises.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/the-dark-knight-rises.jpg]]></wp:meta_value>
@@ -2422,10 +2422,10 @@
 	</item>
 	<item>
 				<title>Space Rocket</title>
-		<link>http://wptest.fxbenard.com/format-article-image/space-rocket/</link>
+		<link>https://wptest.fxbenard.com/format-article-image/space-rocket/</link>
 		<pubDate>Thu, 20 Feb 2014 12:13:11 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2012/12/space-rocket.png</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2012/12/space-rocket.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2441,7 +2441,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2012/12/space-rocket.png</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2012/12/space-rocket.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/12/space-rocket.png]]></wp:meta_value>
@@ -2457,10 +2457,10 @@
 	</item>
 	<item>
 				<title>Statique</title>
-		<link>http://wptest.fxbenard.com/accueil/options-lecture/</link>
+		<link>https://wptest.fxbenard.com/accueil/options-lecture/</link>
 		<pubDate>Thu, 20 Feb 2014 13:43:55 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2476,7 +2476,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png</wp:attachment_url>
+		<wp:attachment_url>https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/02/Options-Lecture.png]]></wp:meta_value>
@@ -2492,10 +2492,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1389/</link>
+		<link>https://wptest.fxbenard.com/1389/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1389/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1389/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la Catégorie enfant 04.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2547,10 +2547,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1390/</link>
+		<link>https://wptest.fxbenard.com/1390/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1390/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1390/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post formats.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2602,10 +2602,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1391/</link>
+		<link>https://wptest.fxbenard.com/1391/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1391/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1391/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the quote post format.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2657,10 +2657,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1392/</link>
+		<link>https://wptest.fxbenard.com/1392/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1392/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1392/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various shortcodes.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2712,10 +2712,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1393/</link>
+		<link>https://wptest.fxbenard.com/1393/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1393/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1393/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post title scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2767,10 +2767,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1394/</link>
+		<link>https://wptest.fxbenard.com/1394/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1394/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1394/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test trackbacks.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2822,10 +2822,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1395/</link>
+		<link>https://wptest.fxbenard.com/1395/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1395/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1395/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the video post format.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2877,10 +2877,10 @@
 	</item>
 	<item>
 				<title>Pages</title>
-		<link>http://wptest.fxbenard.com/pages/</link>
+		<link>https://wptest.fxbenard.com/pages/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/pages/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/pages/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2932,10 +2932,10 @@
 	</item>
 	<item>
 				<title>Categories</title>
-		<link>http://wptest.fxbenard.com/categories/</link>
+		<link>https://wptest.fxbenard.com/categories/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/categories/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/categories/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2987,10 +2987,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1398/</link>
+		<link>https://wptest.fxbenard.com/1398/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1398/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1398/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent l’image et l’alignement de texte.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3042,10 +3042,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1399/</link>
+		<link>https://wptest.fxbenard.com/1399/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1399/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1399/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test comments.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3097,10 +3097,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1400/</link>
+		<link>https://wptest.fxbenard.com/1400/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1400/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1400/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test odd corner cases, using uncovered by rare user workflows.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3152,10 +3152,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1401/</link>
+		<link>https://wptest.fxbenard.com/1401/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1401/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1401/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent différents codes d’intégration.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3207,10 +3207,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1402/</link>
+		<link>https://wptest.fxbenard.com/1402/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1402/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1402/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post excerpts.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3262,10 +3262,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1403/</link>
+		<link>https://wptest.fxbenard.com/1403/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1403/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1403/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test featured images.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3317,10 +3317,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1404/</link>
+		<link>https://wptest.fxbenard.com/1404/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1404/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1404/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various formatting scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3372,10 +3372,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1405/</link>
+		<link>https://wptest.fxbenard.com/1405/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1405/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1405/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test images in various ways.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3427,10 +3427,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1406/</link>
+		<link>https://wptest.fxbenard.com/1406/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1406/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1406/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test Jetpack features.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3482,10 +3482,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1407/</link>
+		<link>https://wptest.fxbenard.com/1407/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1407/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1407/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various list scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3537,10 +3537,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1408/</link>
+		<link>https://wptest.fxbenard.com/1408/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1408/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1408/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test markup tags and styles.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3592,10 +3592,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1409/</link>
+		<link>https://wptest.fxbenard.com/1409/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1409/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1409/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the more tag feature.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3647,10 +3647,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1410/</link>
+		<link>https://wptest.fxbenard.com/1410/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1410/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1410/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the post password feature.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3702,10 +3702,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1411/</link>
+		<link>https://wptest.fxbenard.com/1411/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1411/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1411/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post formats.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3757,10 +3757,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1412/</link>
+		<link>https://wptest.fxbenard.com/1412/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1412/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1412/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various shortcodes.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3812,10 +3812,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1413/</link>
+		<link>https://wptest.fxbenard.com/1413/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1413/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1413/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post title scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3867,10 +3867,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1414/</link>
+		<link>https://wptest.fxbenard.com/1414/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1414/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1414/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test unpublished posts.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3922,10 +3922,10 @@
 	</item>
 	<item>
 				<title>Description du menu</title>
-		<link>http://wptest.fxbenard.com/description-du-menu/</link>
+		<link>https://wptest.fxbenard.com/description-du-menu/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/description-du-menu/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/description-du-menu/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Description du menu personnalisé]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3977,10 +3977,10 @@
 	</item>
 	<item>
 				<title>Attribut du titre du menu</title>
-		<link>http://wptest.fxbenard.com/attribut-du-titre-du-menu/</link>
+		<link>https://wptest.fxbenard.com/attribut-du-titre-du-menu/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/attribut-du-titre-du-menu/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/attribut-du-titre-du-menu/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Titre du menu personnalisé]]></excerpt:encoded>
@@ -4032,10 +4032,10 @@
 	</item>
 	<item>
 				<title>Classe CSS du menu</title>
-		<link>http://wptest.fxbenard.com/classe-css-du-menu/</link>
+		<link>https://wptest.fxbenard.com/classe-css-du-menu/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/classe-css-du-menu/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/classe-css-du-menu/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4087,10 +4087,10 @@
 	</item>
 	<item>
 				<title>Nouvelle Fenêtre / Onglet</title>
-		<link>http://wptest.fxbenard.com/nouvelle-fenetre-onglet/</link>
+		<link>https://wptest.fxbenard.com/nouvelle-fenetre-onglet/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/nouvelle-fenetre-onglet/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/nouvelle-fenetre-onglet/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4142,10 +4142,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1419/</link>
+		<link>https://wptest.fxbenard.com/1419/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1419/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1419/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4197,10 +4197,10 @@
 	</item>
 	<item>
 				<title>Avancé</title>
-		<link>http://wptest.fxbenard.com/avance/</link>
+		<link>https://wptest.fxbenard.com/avance/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/avance/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/avance/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4252,10 +4252,10 @@
 	</item>
 	<item>
 				<title>Accueil</title>
-		<link>http://wptest.fxbenard.com/accueil/</link>
+		<link>https://wptest.fxbenard.com/accueil/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/accueil/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/accueil/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4302,15 +4302,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://wptest.fxbenard.com]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wptest.fxbenard.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1422/</link>
+		<link>https://wptest.fxbenard.com/1422/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1422/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1422/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent l’image et l’alignement de texte.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4362,10 +4362,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1423/</link>
+		<link>https://wptest.fxbenard.com/1423/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1423/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1423/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test image captions.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4417,10 +4417,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1424/</link>
+		<link>https://wptest.fxbenard.com/1424/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1424/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1424/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category contain Codex references.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4472,10 +4472,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1425/</link>
+		<link>https://wptest.fxbenard.com/1425/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1425/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1425/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test post content.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4527,10 +4527,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1426/</link>
+		<link>https://wptest.fxbenard.com/1426/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1426/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1426/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test featured images.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4582,10 +4582,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1427/</link>
+		<link>https://wptest.fxbenard.com/1427/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1427/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1427/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test various formatting scenarios.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4637,10 +4637,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1428/</link>
+		<link>https://wptest.fxbenard.com/1428/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1428/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1428/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the link post format.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4692,10 +4692,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1429/</link>
+		<link>https://wptest.fxbenard.com/1429/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1429/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1429/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test markup tags and styles.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4747,10 +4747,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1430/</link>
+		<link>https://wptest.fxbenard.com/1430/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1430/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1430/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la Catégorie enfant 01.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4802,10 +4802,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1431/</link>
+		<link>https://wptest.fxbenard.com/1431/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1431/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1431/</guid>
 		<description></description>
 		<content:encoded><![CDATA[C’est la description pour la Catégorie enfant 05.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4857,10 +4857,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1432/</link>
+		<link>https://wptest.fxbenard.com/1432/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1432/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1432/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the post password feature.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4912,10 +4912,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1433/</link>
+		<link>https://wptest.fxbenard.com/1433/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1433/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1433/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test pingbacks.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4967,10 +4967,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1434/</link>
+		<link>https://wptest.fxbenard.com/1434/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1434/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1434/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test the standard post format.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5022,10 +5022,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1435/</link>
+		<link>https://wptest.fxbenard.com/1435/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1435/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1435/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Les articles de cette catégorie testent les différentes fonctionnalités de Twitter.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5077,10 +5077,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1436/</link>
+		<link>https://wptest.fxbenard.com/1436/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1436/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1436/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5132,10 +5132,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1437/</link>
+		<link>https://wptest.fxbenard.com/1437/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1437/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1437/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test unpublished posts.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5187,10 +5187,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1438/</link>
+		<link>https://wptest.fxbenard.com/1438/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1438/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1438/</guid>
 		<description></description>
 		<content:encoded><![CDATA[Posts in this category test VideoPress features.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5242,10 +5242,10 @@
 	</item>
 	<item>
 				<title>Profondeur</title>
-		<link>http://wptest.fxbenard.com/profondeur/</link>
+		<link>https://wptest.fxbenard.com/profondeur/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/profondeur/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/profondeur/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5297,10 +5297,10 @@
 	</item>
 	<item>
 				<title>Niveau 01</title>
-		<link>http://wptest.fxbenard.com/niveau-01/</link>
+		<link>https://wptest.fxbenard.com/niveau-01/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-01/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-01/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5352,10 +5352,10 @@
 	</item>
 	<item>
 				<title>Niveau 02</title>
-		<link>http://wptest.fxbenard.com/niveau-02/</link>
+		<link>https://wptest.fxbenard.com/niveau-02/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-02/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-02/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5407,10 +5407,10 @@
 	</item>
 	<item>
 				<title>Niveau 03</title>
-		<link>http://wptest.fxbenard.com/niveau-03/</link>
+		<link>https://wptest.fxbenard.com/niveau-03/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-03/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-03/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5462,10 +5462,10 @@
 	</item>
 	<item>
 				<title>Niveau 04</title>
-		<link>http://wptest.fxbenard.com/niveau-04/</link>
+		<link>https://wptest.fxbenard.com/niveau-04/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-04/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-04/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5517,10 +5517,10 @@
 	</item>
 	<item>
 				<title>Niveau 05</title>
-		<link>http://wptest.fxbenard.com/niveau-05/</link>
+		<link>https://wptest.fxbenard.com/niveau-05/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-05/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-05/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5572,10 +5572,10 @@
 	</item>
 	<item>
 				<title>Niveau 06</title>
-		<link>http://wptest.fxbenard.com/niveau-06/</link>
+		<link>https://wptest.fxbenard.com/niveau-06/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-06/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-06/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5627,10 +5627,10 @@
 	</item>
 	<item>
 				<title>Niveau 07</title>
-		<link>http://wptest.fxbenard.com/niveau-07/</link>
+		<link>https://wptest.fxbenard.com/niveau-07/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-07/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-07/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5682,10 +5682,10 @@
 	</item>
 	<item>
 				<title>Niveau 08</title>
-		<link>http://wptest.fxbenard.com/niveau-08/</link>
+		<link>https://wptest.fxbenard.com/niveau-08/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-08/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-08/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5737,10 +5737,10 @@
 	</item>
 	<item>
 				<title>Niveau 09</title>
-		<link>http://wptest.fxbenard.com/niveau-09/</link>
+		<link>https://wptest.fxbenard.com/niveau-09/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-09/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-09/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5792,10 +5792,10 @@
 	</item>
 	<item>
 				<title>Niveau 10</title>
-		<link>http://wptest.fxbenard.com/niveau-10/</link>
+		<link>https://wptest.fxbenard.com/niveau-10/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/niveau-10/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/niveau-10/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5847,10 +5847,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1450/</link>
+		<link>https://wptest.fxbenard.com/1450/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1450/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1450/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5902,10 +5902,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1452/</link>
+		<link>https://wptest.fxbenard.com/1452/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1452/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1452/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5957,10 +5957,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1453/</link>
+		<link>https://wptest.fxbenard.com/1453/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1453/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1453/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6012,10 +6012,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1454/</link>
+		<link>https://wptest.fxbenard.com/1454/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:06 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1454/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1454/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6067,10 +6067,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1457/</link>
+		<link>https://wptest.fxbenard.com/1457/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1457/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1457/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6122,10 +6122,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1458/</link>
+		<link>https://wptest.fxbenard.com/1458/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1458/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1458/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6177,10 +6177,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1459/</link>
+		<link>https://wptest.fxbenard.com/1459/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1459/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1459/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6232,10 +6232,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1460/</link>
+		<link>https://wptest.fxbenard.com/1460/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1460/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1460/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6287,10 +6287,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1461/</link>
+		<link>https://wptest.fxbenard.com/1461/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1461/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1461/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6342,10 +6342,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1462/</link>
+		<link>https://wptest.fxbenard.com/1462/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1462/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1462/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6397,10 +6397,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1463/</link>
+		<link>https://wptest.fxbenard.com/1463/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1463/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1463/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6452,10 +6452,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1464/</link>
+		<link>https://wptest.fxbenard.com/1464/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1464/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1464/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6507,10 +6507,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1465/</link>
+		<link>https://wptest.fxbenard.com/1465/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1465/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1465/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6562,10 +6562,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1466/</link>
+		<link>https://wptest.fxbenard.com/1466/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1466/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1466/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6617,10 +6617,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1467/</link>
+		<link>https://wptest.fxbenard.com/1467/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1467/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1467/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6672,10 +6672,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1468/</link>
+		<link>https://wptest.fxbenard.com/1468/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1468/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1468/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6727,10 +6727,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1469/</link>
+		<link>https://wptest.fxbenard.com/1469/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1469/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1469/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6782,10 +6782,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1470/</link>
+		<link>https://wptest.fxbenard.com/1470/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1470/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1470/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6837,10 +6837,10 @@
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1471/</link>
+		<link>https://wptest.fxbenard.com/1471/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1471/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1471/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -6892,7 +6892,7 @@
 	</item>
 	<item>
 				<title>Boutique Amazon</title>
-		<link>http://wptest.fxbenard.com/amazon-store/</link>
+		<link>https://wptest.fxbenard.com/amazon-store/</link>
 		<pubDate>Fri, 15 Mar 2013 22:48:51 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1062</guid>
@@ -6938,7 +6938,7 @@
 	</item>
 	<item>
 				<title>Blog</title>
-		<link>http://wptest.fxbenard.com/blog/</link>
+		<link>https://wptest.fxbenard.com/blog/</link>
 		<pubDate>Fri, 15 Mar 2013 22:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1066</guid>
@@ -6950,7 +6950,7 @@ Pour tester cette page :
 	<li>Direction <em>Réglages &gt; Lecture </em>dans l'admin de WordPress.</li>
 	<li>Après utilisez les réglages de la capture d'écran ci-dessous.</li>
 </ul>
-<a href="http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png"><img alt="Statique" src="http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png" width="691" height="280" /></a>
+<a href="https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png"><img alt="Statique" src="https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png" width="691" height="280" /></a>
 
 Quelques trucs à vérifier ensuite.
 <ul>
@@ -6990,7 +6990,7 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title>Page de commentaires désactivés</title>
-		<link>http://wptest.fxbenard.com/page-commentaires-desactives/</link>
+		<link>https://wptest.fxbenard.com/page-commentaires-desactives/</link>
 		<pubDate>Fri, 15 Mar 2013 23:15:14 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1075</guid>
@@ -7030,7 +7030,7 @@ Il ne devrait y avoir aucun commentaire, rétrolien ou ping.]]></content:encoded
 	</item>
 	<item>
 				<title>Page de commentaires</title>
-		<link>http://wptest.fxbenard.com/page-commentaires/</link>
+		<link>https://wptest.fxbenard.com/page-commentaires/</link>
 		<pubDate>Fri, 15 Mar 2013 23:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1077</guid>
@@ -7084,7 +7084,7 @@ Si votre thème est compatible avec les commentaires sur les pages, ils devraien
 	</item>
 	<item>
 				<title>Page d&#039;alignement d&#039;image</title>
-		<link>http://wptest.fxbenard.com/page-alignement-image/</link>
+		<link>https://wptest.fxbenard.com/page-alignement-image/</link>
 		<pubDate>Fri, 15 Mar 2013 23:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1080</guid>
@@ -7093,10 +7093,10 @@ Si votre thème est compatible avec les commentaires sur les pages, ils devraien
 
 Concernant l'alignement, il est à noter que les utilisateurs peuvent choisir parmi les options <em>aucun</em>, <em>à gauche</em>, <em>à droite</em> et <em>centré</em>. De plus, les images peuvent avoir différentes dimensions : <em>miniature, moyenne, grande &amp; en plein écran</em>.
 
-<p style="text-align: center"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></p>
+<p style="text-align: center"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></p>
 L'image au-dessus est <em><strong>centrée</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /></strong>
+<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /></strong>
 
 Le reste de ce paragraphe est du simple remplissage pour voir le texte se disposer autour de l'image de 150 x 150, qui reste <strong><em>alignée à gauche</em></strong>.
 
@@ -7104,11 +7104,11 @@ Comme vous pouvez le voir il devrait y avoir de l'espace tout autour de l'image.
 
 Et maintenant une <strong><em>image extrêmement grande</em></strong>. Et <strong><em>sans alignement.</em></strong>
 
-<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" />
+<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" />
 
 L'image ci-dessus, malgré ses 1200 px de large, ne devrait pas sortir de la zone du contenu. Elle devrait restée contenu sans aucun problème dans le flow du contenu.
 
-<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" />
+<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" />
 
 Et maintenant tribord toute avec un alignement <strong><em>à droite.</em></strong><em> </em>À nouveau il devrait y avoir suffisament d'espace au-dessus, en-dessous et à gauche de l'image. Ça semble tout bon tout ça. Et ne laissez personne vous dire le contraire.
 
@@ -7116,9 +7116,9 @@ Maintenant , vous devriez voir le texte commencé à glisser gentiment sous l'im
 
 Vous croyez en avoir terminé, et bien non, nous allons tout recommencer mais cette fois-ci avec les légendes !
 
-<dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dt class="wp-caption-dt"><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></dt></dl><dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dd class="wp-caption-dd">Cette image de 580x300 a une <a title="Réglages image" href="http://en.support.wordpress.com/images/image-settings/">légende</a> super originale.</dd></dl>L'image ci-dessus est <strong><em>centrée</em></strong>. La légende contient aussi un lien. Juste pour voir si cela ne produit rien de bizarre.
+<dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dt class="wp-caption-dt"><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></dt></dl><dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dd class="wp-caption-dd">Cette image de 580x300 a une <a title="Réglages image" href="http://en.support.wordpress.com/images/image-settings/">légende</a> super originale.</dd></dl>L'image ci-dessus est <strong><em>centrée</em></strong>. La légende contient aussi un lien. Juste pour voir si cela ne produit rien de bizarre.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /> tou'p'tite légende.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /> tou'p'tite légende.[/caption]
 
 Le reste de ce paragraphe est du simple remplissage pour voir le texte se disposer autour de l'image de 150 x 150, qui reste <strong><em>alignée à gauche</em></strong>.
 
@@ -7126,11 +7126,11 @@ Comme vous pouvez le voir il devrait y avoir de l'espace tout autour de l'image.
 
 Et maintenant une <em>image <strong>extrêmement grande</strong></em>. Et <em><strong>sans alignement</strong>.</em>
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" /> Une immense image pour le plaisir de vos yeux.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" /> Une immense image pour le plaisir de vos yeux.[/caption]
 
 L'image ci-dessus, malgré ses 1200 px de large, ne devrait pas sortir de la zone du contenu. Elle devrait restée contenu sans aucun problème dans le flow du contenu.
 
-[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" /> Trop bien vu, cet alignement à droite.[/caption]
+[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" /> Trop bien vu, cet alignement à droite.[/caption]
 
 Et maintenant tribord toute avec un alignement <em>à droite.</em><em> </em>À nouveau il devrait y avoir suffisament d'espace au-dessus, en-dessous et à gauche de l'image. Ça semble tout bon tout ça. Et ne laissez personne vous dire le contraire.
 
@@ -7169,7 +7169,7 @@ Et voilà jeune Jack Sparrow ! Vous avez survécu aux eaux tumultueuses de l'ali
 	</item>
 	<item>
 				<title>Page de balises et de mise en forme</title>
-		<link>http://wptest.fxbenard.com/page-balises-mise-en-forme/</link>
+		<link>https://wptest.fxbenard.com/page-balises-mise-en-forme/</link>
 		<pubDate>Fri, 15 Mar 2013 23:20:05 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1083</guid>
@@ -7410,12 +7410,12 @@ Cela vous permet d'indiquer des&nbsp;<var>variables</var>.]]></content:encoded>
 	</item>
 	<item>
 				<title>À propos</title>
-		<link>http://wptest.fxbenard.com/a-propos/</link>
+		<link>https://wptest.fxbenard.com/a-propos/</link>
 		<pubDate>Fri, 15 Mar 2013 23:21:12 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1086</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a title="WP Test en Français" href="http://wptest.fxbenard.com/">WP Test en Français</a> est un ensemble fantastiquement exhaustif de données de test pour mesurer l'intégrité et les fonctionnalités de vos extensions et de vos thèmes WordPress.
+		<content:encoded><![CDATA[<a title="WP Test en Français" href="https://wptest.fxbenard.com/">WP Test en Français</a> est un ensemble fantastiquement exhaustif de données de test pour mesurer l'intégrité et les fonctionnalités de vos extensions et de vos thèmes WordPress.
 
 Ce projet est la traduction, l'adaptation, l'amélioration du projet <a title="WP Test - The Best Tests For WordPress" href="http://wptest.io" target="_blank">WP Test</a> crée par <a title="Michael Novotny" href="http://manovotny.com/" rel="home">Michael Novotny</a>.
 
@@ -7484,7 +7484,7 @@ La base de ces tests est issue des données du codex <a title="Theme Unit Test" 
 	</item>
 	<item>
 				<title>Page parente</title>
-		<link>http://wptest.fxbenard.com/page-parente/</link>
+		<link>https://wptest.fxbenard.com/page-parente/</link>
 		<pubDate>Fri, 15 Mar 2013 23:24:09 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1088</guid>
@@ -7524,7 +7524,7 @@ Elle contient toutes les pages enfants.]]></content:encoded>
 	</item>
 	<item>
 				<title>Page enfant 01</title>
-		<link>http://wptest.fxbenard.com/page-parente/page-enfant-01/</link>
+		<link>https://wptest.fxbenard.com/page-parente/page-enfant-01/</link>
 		<pubDate>Fri, 15 Mar 2013 23:25:40 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1090</guid>
@@ -7562,7 +7562,7 @@ Elle contient toutes les pages enfants.]]></content:encoded>
 	</item>
 	<item>
 				<title>Page enfant 02</title>
-		<link>http://wptest.fxbenard.com/page-parente/page-enfant-02/</link>
+		<link>https://wptest.fxbenard.com/page-parente/page-enfant-02/</link>
 		<pubDate>Fri, 15 Mar 2013 23:25:51 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1092</guid>
@@ -7600,7 +7600,7 @@ Elle contient toutes les pages enfants.]]></content:encoded>
 	</item>
 	<item>
 				<title>Page enfant 03</title>
-		<link>http://wptest.fxbenard.com/page-parente/page-enfant-03/</link>
+		<link>https://wptest.fxbenard.com/page-parente/page-enfant-03/</link>
 		<pubDate>Fri, 15 Mar 2013 23:26:23 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1094</guid>
@@ -7640,7 +7640,7 @@ et, pour pousser le délire, elle contient aussi une page enfant (donc une page 
 	</item>
 	<item>
 				<title>Page enfant 04</title>
-		<link>http://wptest.fxbenard.com/page-parente/page-enfant-04/</link>
+		<link>https://wptest.fxbenard.com/page-parente/page-enfant-04/</link>
 		<pubDate>Fri, 15 Mar 2013 23:26:40 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1096</guid>
@@ -7678,7 +7678,7 @@ et, pour pousser le délire, elle contient aussi une page enfant (donc une page 
 	</item>
 	<item>
 				<title>Page enfant 05</title>
-		<link>http://wptest.fxbenard.com/page-parente/child-page-05/</link>
+		<link>https://wptest.fxbenard.com/page-parente/child-page-05/</link>
 		<pubDate>Fri, 15 Mar 2013 23:27:40 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1098</guid>
@@ -7716,7 +7716,7 @@ et, pour pousser le délire, elle contient aussi une page enfant (donc une page 
 	</item>
 	<item>
 				<title>Page petit-enfant</title>
-		<link>http://wptest.fxbenard.com/page-parente/page-enfant-03/page-petit-enfant/</link>
+		<link>https://wptest.fxbenard.com/page-parente/page-enfant-03/page-petit-enfant/</link>
 		<pubDate>Fri, 15 Mar 2013 23:28:48 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1102</guid>
@@ -7754,10 +7754,10 @@ et, pour pousser le délire, elle contient aussi une page enfant (donc une page 
 	</item>
 	<item>
 				<title>Accueil</title>
-		<link>http://wptest.fxbenard.com/</link>
+		<link>https://wptest.fxbenard.com/</link>
 		<pubDate>Tue, 18 Feb 2014 09:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/?page_id=1266</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/?page_id=1266</guid>
 		<description></description>
 		<content:encoded><![CDATA[Notez que vous aurez probablement envie de tester cette page en conjonction avec la page de Blog.
 
@@ -7766,7 +7766,7 @@ Pour tester cette page :
 	<li>Direction <em>Réglages &gt; Lecture </em>dans l'admin de WordPress.</li>
 	<li>Après utilisez les réglages de la capture d'écran ci-dessous.</li>
 </ul>
-<a href="http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png"><img class="alignnone size-full wp-image-1388" alt="Statique" src="http://wptest.fxbenard.com/files/2014/02/Options-Lecture.png" width="691" height="280" /></a>
+<a href="https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png"><img class="alignnone size-full wp-image-1388" alt="Statique" src="https://wptest.fxbenard.com/files/2014/02/Options-Lecture.png" width="691" height="280" /></a>
 
 Quelques trucs à vérifier ensuite.
 <ul>
@@ -7807,10 +7807,10 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title>Page d’exemple</title>
-		<link>http://wptest.fxbenard.com/page-d-exemple-2/</link>
+		<link>https://wptest.fxbenard.com/page-d-exemple-2/</link>
 		<pubDate>Sun, 23 Feb 2014 12:23:52 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/?page_id=2</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7837,10 +7837,10 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1472/</link>
+		<link>https://wptest.fxbenard.com/1472/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1472/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1472/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7892,10 +7892,10 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1473/</link>
+		<link>https://wptest.fxbenard.com/1473/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1473/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1473/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -7947,10 +7947,10 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1474/</link>
+		<link>https://wptest.fxbenard.com/1474/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1474/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1474/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8002,10 +8002,10 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/1475/</link>
+		<link>https://wptest.fxbenard.com/1475/</link>
 		<pubDate>Mon, 24 Feb 2014 15:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/2014/02/24/1475/</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/2014/02/24/1475/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8057,7 +8057,7 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title>Page d’exemple</title>
-		<link>http://wptest.fxbenard.com/page-d-exemple/</link>
+		<link>https://wptest.fxbenard.com/page-d-exemple/</link>
 		<pubDate>Mon, 24 Feb 2014 15:13:20 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wp-test.fxbenard.com/?page_id=2</guid>
@@ -8095,7 +8095,7 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title>Protégé par mot de passe (le mot de passe est &quot;entrée&quot;)</title>
-		<link>http://wptest.fxbenard.com/password-protected/</link>
+		<link>https://wptest.fxbenard.com/password-protected/</link>
 		<pubDate>Fri, 04 Jan 2013 15:38:05 +0000</pubDate>
 		<dc:creator><![CDATA[boiteaweb]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/test-with-secret-password/</guid>
@@ -8151,7 +8151,7 @@ Quelques trucs à vérifier ensuite.
 	</item>
 	<item>
 				<title></title>
-		<link>http://wptest.fxbenard.com/sans-titre/</link>
+		<link>https://wptest.fxbenard.com/sans-titre/</link>
 		<pubDate>Sat, 05 Jan 2013 15:00:23 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/14/</guid>
@@ -8200,7 +8200,7 @@ Cela est généralement fait en utilisant le permalien de la date de l'article.]
 	</item>
 	<item>
 				<title>Commentaires</title>
-		<link>http://wptest.fxbenard.com/commentaire/</link>
+		<link>https://wptest.fxbenard.com/commentaire/</link>
 		<pubDate>Thu, 03 Jan 2013 16:11:37 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/comment-test/</guid>
@@ -8756,7 +8756,7 @@ Avec un commentaire de l'auteur.]]></wp:comment_content>
 	</item>
 	<item>
 				<title>Pings</title>
-		<link>http://wptest.fxbenard.com/pings-et-retroliens/</link>
+		<link>https://wptest.fxbenard.com/pings-et-retroliens/</link>
 		<pubDate>Tue, 01 Jan 2013 16:17:18 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/many-trackbacks/</guid>
@@ -8891,7 +8891,7 @@ Il y a différentes façons de les afficher.
 	</item>
 	<item>
 				<title>Commentaires désactivés</title>
-		<link>http://wptest.fxbenard.com/commentaires-desactives/</link>
+		<link>https://wptest.fxbenard.com/commentaires-desactives/</link>
 		<pubDate>Wed, 02 Jan 2013 16:21:15 +0000</pubDate>
 		<dc:creator><![CDATA[jennybeaumont]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/no-comments/</guid>
@@ -8950,7 +8950,7 @@ Il ne devrait y avoir aucun commentaire, rétrolien ou ping.]]></content:encoded
 	</item>
 	<item>
 				<title>Plein de mots-clefs</title>
-		<link>http://wptest.fxbenard.com/plein-mots-clefs/</link>
+		<link>https://wptest.fxbenard.com/plein-mots-clefs/</link>
 		<pubDate>Thu, 01 Nov 2012 06:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-tags/</guid>
@@ -9013,7 +9013,7 @@ Il ne devrait y avoir aucun commentaire, rétrolien ou ping.]]></content:encoded
 	</item>
 	<item>
 				<title>Plein de catégories</title>
-		<link>http://wptest.fxbenard.com/plein-de-categories/</link>
+		<link>https://wptest.fxbenard.com/plein-de-categories/</link>
 		<pubDate>Fri, 02 Nov 2012 07:00:03 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/11/24/many-categories/</guid>
@@ -9092,7 +9092,7 @@ Il ne devrait y avoir aucun commentaire, rétrolien ou ping.]]></content:encoded
 	</item>
 	<item>
 				<title>Programmé</title>
-		<link>http://wptest.fxbenard.com/programme/</link>
+		<link>https://wptest.fxbenard.com/programme/</link>
 		<pubDate>Sat, 01 Jan 2050 18:00:18 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=418</guid>
@@ -9126,7 +9126,7 @@ Il ne devrait pas apparaître dans le thème.]]></content:encoded>
 	</item>
 	<item>
 				<title>Format d&#039;article : Galerie</title>
-		<link>http://wptest.fxbenard.com/format-article-galerie/</link>
+		<link>https://wptest.fxbenard.com/format-article-galerie/</link>
 		<pubDate>Mon, 10 Dec 2012 16:00:14 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=555</guid>
@@ -9206,7 +9206,7 @@ Vous pouvez utiliser cette page pour voir comment votre thème gère le raccourc
 	</item>
 	<item>
 				<title>Format d&#039;article : En passant</title>
-		<link>http://wptest.fxbenard.com/format-article-en-passant/</link>
+		<link>https://wptest.fxbenard.com/format-article-en-passant/</link>
 		<pubDate>Sun, 09 Dec 2012 15:00:54 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=559</guid>
@@ -9257,7 +9257,7 @@ Si vous chercher un thème WordPress comme vous cherchez une paire de tongs, alo
 	</item>
 	<item>
 				<title>Format d&#039;article : Son</title>
-		<link>http://wptest.fxbenard.com/format-article-son/</link>
+		<link>https://wptest.fxbenard.com/format-article-son/</link>
 		<pubDate>Sat, 08 Dec 2012 14:00:31 +0000</pubDate>
 		<dc:creator><![CDATA[remicorson]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=562</guid>
@@ -9271,11 +9271,11 @@ Avec le raccourci "Soundcloud" et JetPack ou SlimPack.
 
 Un fichier média avec le raccourci "audio" et JetPack ou SlimPack.
 
-[audio mp3="http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3"][/audio]
+[audio mp3="https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3"][/audio]
 
 Sinon un simple lien de fichier
 
-<a href="http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3">Eddy - Need (Remix)</a>]]></content:encoded>
+<a href="https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3">Eddy - Need (Remix)</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>562</wp:post_id>
 		<wp:post_date>2012-12-08 08:00:31</wp:post_date>
@@ -9306,7 +9306,7 @@ Sinon un simple lien de fichier
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
-			<wp:meta_value><![CDATA[http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3
+			<wp:meta_value><![CDATA[https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3
 0
 audio/mpeg
 ]]></wp:meta_value>
@@ -9325,7 +9325,7 @@ audio/mpeg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
-			<wp:meta_value><![CDATA[http://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3
+			<wp:meta_value><![CDATA[https://wptest.fxbenard.com/files/2013/03/Eddy-Need-Remix.mp3
 0
 audio/mpeg
 ]]></wp:meta_value>
@@ -9333,7 +9333,7 @@ audio/mpeg
 	</item>
 	<item>
 				<title>Format d&#039;article : Lien</title>
-		<link>http://wptest.fxbenard.com/format-article-lien/</link>
+		<link>https://wptest.fxbenard.com/format-article-lien/</link>
 		<pubDate>Fri, 07 Dec 2012 13:00:53 +0000</pubDate>
 		<dc:creator><![CDATA[jennybeaumont]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=565</guid>
@@ -9382,13 +9382,13 @@ audio/mpeg
 	</item>
 	<item>
 				<title>Format d&#039;article : Image</title>
-		<link>http://wptest.fxbenard.com/format-article-image/</link>
+		<link>https://wptest.fxbenard.com/format-article-image/</link>
 		<pubDate>Wed, 05 Dec 2012 11:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=568</guid>
 		<description></description>
 		<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_612" style="width: 650px"><dt class="wp-caption-dt"></dt></dl>
-<p style="text-align: center"><a href="http://wptest.fxbenard.com/files/2012/12/space-rocket.png"><img class="size-medium wp-image-1365 aligncenter" alt="Space Rocket" src="http://wptest.fxbenard.com/files/2012/12/space-rocket-300x187.png" width="300" height="187" /></a></p>
+<p style="text-align: center"><a href="https://wptest.fxbenard.com/files/2012/12/space-rocket.png"><img class="size-medium wp-image-1365 aligncenter" alt="Space Rocket" src="https://wptest.fxbenard.com/files/2012/12/space-rocket-300x187.png" width="300" height="187" /></a></p>
 J'adore ce fond d'écran. Il me fait penser à <a title="WP-Rocket" href="http://wp-rocket.me/" target="_blank">WP Rocket</a>.
 
 Retrouvez cette image et bien d'autres sur <a title="Simple Desktop" href="http://simpledesktops.com/" target="_blank">Simple Desktops</a>. Merci à eux.]]></content:encoded>
@@ -9443,7 +9443,7 @@ Retrouvez cette image et bien d'autres sur <a title="Simple Desktop" href="http
 	</item>
 	<item>
 				<title>Format d&#039;article : Citation</title>
-		<link>http://wptest.fxbenard.com/format-article-citation/</link>
+		<link>https://wptest.fxbenard.com/format-article-citation/</link>
 		<pubDate>Tue, 04 Dec 2012 10:00:15 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=575</guid>
@@ -9494,7 +9494,7 @@ Retrouvez cette image et bien d'autres sur <a title="Simple Desktop" href="http
 	</item>
 	<item>
 				<title>Format d&#039;article : Vidéo</title>
-		<link>http://wptest.fxbenard.com/post-format-video/</link>
+		<link>https://wptest.fxbenard.com/post-format-video/</link>
 		<pubDate>Sun, 02 Dec 2012 08:00:58 +0000</pubDate>
 		<dc:creator><![CDATA[benjaminlupu]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=582</guid>
@@ -9554,12 +9554,12 @@ En savoir plus <a title="Intégration dans WordPress" href="http://codex.wordpre
 	</item>
 	<item>
 				<title>Format d&#039;article : Image (Légende)</title>
-		<link>http://wptest.fxbenard.com/format-article-image-legende/</link>
+		<link>https://wptest.fxbenard.com/format-article-image-legende/</link>
 		<pubDate>Thu, 06 Dec 2012 12:00:19 +0000</pubDate>
 		<dc:creator><![CDATA[remicorson]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=674</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_963" align="alignnone" width="1131"]<img class=" wp-image-963" title="Triforce Wallpaper" alt="Triforce Wallpaper" src="http://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg" width="1131" height="707" /> C'est dangereux d'y aller seul ! Prenez ça.[/caption]]]></content:encoded>
+		<content:encoded><![CDATA[[caption id="attachment_963" align="alignnone" width="1131"]<img class=" wp-image-963" title="Triforce Wallpaper" alt="Triforce Wallpaper" src="https://wptest.fxbenard.com/files/2012/12/triforce-wallpaper.jpg" width="1131" height="707" /> C'est dangereux d'y aller seul ! Prenez ça.[/caption]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>674</wp:post_id>
 		<wp:post_date>2012-12-06 06:00:19</wp:post_date>
@@ -9603,7 +9603,7 @@ En savoir plus <a title="Intégration dans WordPress" href="http://codex.wordpre
 	</item>
 	<item>
 				<title>Brouillon</title>
-		<link>http://wptest.fxbenard.com/?p=922</link>
+		<link>https://wptest.fxbenard.com/?p=922</link>
 		<pubDate>Tue, 18 Feb 2014 10:05:39 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=922</guid>
@@ -9661,7 +9661,7 @@ Il ne devrait pas apparaître dans le thème.]]></content:encoded>
 	</item>
 	<item>
 				<title>Format d&#039;article : Par défaut</title>
-		<link>http://wptest.fxbenard.com/format-article-defaut/</link>
+		<link>https://wptest.fxbenard.com/format-article-defaut/</link>
 		<pubDate>Tue, 11 Dec 2012 17:00:11 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=946</guid>
@@ -9725,7 +9725,7 @@ Alors seulement tu pourras donner vie... aux mots.]]></content:encoded>
 	</item>
 	<item>
 				<title>Format d&#039;article : Vidéo (VideoPress)</title>
-		<link>http://wptest.fxbenard.com/format-article-video-videopress/</link>
+		<link>https://wptest.fxbenard.com/format-article-video-videopress/</link>
 		<pubDate>Sun, 02 Dec 2012 09:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1005</guid>
@@ -9798,7 +9798,7 @@ Vous devez installer l'extension <a title="Jetpack pour WordPress" href="http:/
 	</item>
 	<item>
 				<title>Pas de contenu</title>
-		<link>http://wptest.fxbenard.com/sans-contenu/</link>
+		<link>https://wptest.fxbenard.com/sans-contenu/</link>
 		<pubDate>Sun, 06 Jan 2013 15:39:56 +0000</pubDate>
 		<dc:creator><![CDATA[jennybeaumont]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/this-post-has-no-body/</guid>
@@ -9859,7 +9859,7 @@ Vous devez installer l'extension <a title="Jetpack pour WordPress" href="http:/
 	</item>
 	<item>
 				<title>Pagination</title>
-		<link>http://wptest.fxbenard.com/pagination/</link>
+		<link>https://wptest.fxbenard.com/pagination/</link>
 		<pubDate>Tue, 08 Jan 2013 16:00:20 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://noeltest.wordpress.com/?p=188</guid>
@@ -9914,7 +9914,7 @@ Page d'article 3]]></content:encoded>
 	</item>
 	<item>
 				<title>Titre avec des balises</title>
-		<link>http://wptest.fxbenard.com/titre-avec-balises/</link>
+		<link>https://wptest.fxbenard.com/titre-avec-balises/</link>
 		<pubDate>Sat, 05 Jan 2013 16:00:49 +0000</pubDate>
 		<dc:creator><![CDATA[jennybeaumont]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=861</guid>
@@ -9958,7 +9958,7 @@ Page d'article 3]]></content:encoded>
 	</item>
 	<item>
 				<title>Titre avec des caractères spéciaux ~ ! @ # $ % ^ &amp; * ( ) - _ = + [ { ] }  &#124; ; : &#039; &quot; ,  / ? ó Ó ô Ô ò Ò õ Õ ö Ö ¢ £ ¥ € ƒ © ® ™ ¶ • § – — † ÷ ± ° ¬ ≥ ≤ √ π ∞ ≈ Δ Σ ∏ Ω µ ∂ ∫ ‰ ¡ ¿ Ç ç Œ œ ß º ª Ø ø Å å Æ æ « »</title>
-		<link>http://wptest.fxbenard.com/title-with-special-characters/</link>
+		<link>https://wptest.fxbenard.com/title-with-special-characters/</link>
 		<pubDate>Sat, 05 Jan 2013 17:00:20 +0000</pubDate>
 		<dc:creator><![CDATA[gregoirenoyelle]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=867</guid>
@@ -9995,7 +9995,7 @@ Le caractères spéciaux dans le titre d'article sont connus pour causer des pro
 	</item>
 	<item>
 				<title>Super/Trop/Long/Insecable/Kesako/Nom/De/Chemin/Sans/Accent/Vers/Un/Fichier/Qui/Est/Tres/Loin/Sur/Un/Mysterieux/Serveur/D/Une/Partie/Oubliee/D/Un/Système/D/Exploitation/Vers/Un/Fichier/Qui/Etonnamment/A/Ete/Intitule/Supercalifragilisticexpialidocious.txt</title>
-		<link>http://wptest.fxbenard.com/texte-insecable/</link>
+		<link>https://wptest.fxbenard.com/texte-insecable/</link>
 		<pubDate>Sat, 05 Jan 2013 18:00:59 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=877</guid>
@@ -10078,7 +10078,7 @@ Super/Trop/Long/Insecable/Kesako/Nom/De/Chemin/Sans/Accent/Vers/Un/Fichier/Qui/E
 	</item>
 	<item>
 				<title>Alignement du texte</title>
-		<link>http://wptest.fxbenard.com/text-alignment/</link>
+		<link>https://wptest.fxbenard.com/text-alignment/</link>
 		<pubDate>Wed, 09 Jan 2013 15:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=895</guid>
@@ -10124,7 +10124,7 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
 	</item>
 	<item>
 				<title>Alignement d&#039;image</title>
-		<link>http://wptest.fxbenard.com/alignement-image/</link>
+		<link>https://wptest.fxbenard.com/alignement-image/</link>
 		<pubDate>Fri, 11 Jan 2013 02:15:40 +0000</pubDate>
 		<dc:creator><![CDATA[benjaminlupu]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=903</guid>
@@ -10133,10 +10133,10 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
 
 Concernant l'alignement, il est à noter que les utilisateurs peuvent choisir parmi les options <em>aucun</em>, <em>à gauche</em>, <em>à droite</em> et <em>centré</em>. De plus, les images peuvent avoir différentes dimensions : <em>miniature, moyenne, grande &amp; en plein écran</em>.
 
-<p style="text-align: center"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></p>
+<p style="text-align: center"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></p>
 L'image au-dessus est <em><strong>centrée</strong></em>.
 
-<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /></strong>
+<strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /></strong>
 
 Le reste de ce paragraphe est du simple remplissage pour voir le texte se disposer autour de l'image de 150 x 150, qui reste <strong><em>alignée à gauche</em></strong>.
 
@@ -10144,11 +10144,11 @@ Comme vous pouvez le voir il devrait y avoir de l'espace tout autour de l'image.
 
 Et maintenant une <strong><em>image extrêmement grande</em></strong>. Et <strong><em>sans alignement.</em></strong>
 
-<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" />
+<img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" />
 
 L'image ci-dessus, malgré ses 1200 px de large, ne devrait pas sortir de la zone du contenu. Elle devrait restée contenu sans aucun problème dans le flow du contenu.
 
-<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" />
+<img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" />
 
 Et maintenant tribord toute avec un alignement <strong><em>à droite.</em></strong><em> </em>À nouveau il devrait y avoir suffisament d'espace au-dessus, en-dessous et à gauche de l'image. Ça semble tout bon tout ça. Et ne laissez personne vous dire le contraire.
 
@@ -10156,9 +10156,9 @@ Maintenant , vous devriez voir le texte commencé à glisser gentiment sous l'im
 
 Vous croyez en avoir terminé, et bien non, nous allons tout recommencer mais cette fois-ci avec les légendes !
 
-<dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dt class="wp-caption-dt"><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></dt></dl><dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dd class="wp-caption-dd">Cette image de 580x300 a une <a title="Réglages image" href="http://en.support.wordpress.com/images/image-settings/">légende</a> super originale.</dd></dl>L'image ci-dessus est <strong><em>centrée</em></strong>. La légende contient aussi un lien. Juste pour voir si cela ne produit rien de bizarre.
+<dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dt class="wp-caption-dt"><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-580x300.jpg" width="580" height="300" /></dt></dl><dl class="wp-caption aligncenter" id="attachment_906" style="width: 590px"><dd class="wp-caption-dd">Cette image de 580x300 a une <a title="Réglages image" href="http://en.support.wordpress.com/images/image-settings/">légende</a> super originale.</dd></dl>L'image ci-dessus est <strong><em>centrée</em></strong>. La légende contient aussi un lien. Juste pour voir si cela ne produit rien de bizarre.
 
-[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /> tou'p'tite légende.[/caption]
+[caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-150x150.jpg" width="150" height="150" /> tou'p'tite légende.[/caption]
 
 Le reste de ce paragraphe est du simple remplissage pour voir le texte se disposer autour de l'image de 150 x 150, qui reste <strong><em>alignée à gauche</em></strong>.
 
@@ -10166,11 +10166,11 @@ Comme vous pouvez le voir il devrait y avoir de l'espace tout autour de l'image.
 
 Et maintenant une <em>image <strong>extrêmement grande</strong></em>. Et <em><strong>sans alignement</strong>.</em>
 
-[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" /> Une immense image pour le plaisir de vos yeux.[/caption]
+[caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-1200x4002.jpg" width="1200" height="400" /> Une immense image pour le plaisir de vos yeux.[/caption]
 
 L'image ci-dessus, malgré ses 1200 px de large, ne devrait pas sortir de la zone du contenu. Elle devrait restée contenu sans aucun problème dans le flow du contenu.
 
-[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="http://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" /> Trop bien vu, cet alignement à droite.[/caption]
+[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://wptest.fxbenard.com/files/2013/03/image-alignement-300x200.jpg" width="300" height="200" /> Trop bien vu, cet alignement à droite.[/caption]
 
 Et maintenant tribord toute avec un alignement <em>à droite.</em><em> </em>À nouveau il devrait y avoir suffisament d'espace au-dessus, en-dessous et à gauche de l'image. Ça semble tout bon tout ça. Et ne laissez personne vous dire le contraire.
 
@@ -10246,7 +10246,7 @@ Et voilà jeune Jack Sparrow ! Vous avez survécu aux eaux tumultueuses de l'ali
 	</item>
 	<item>
 				<title>Balises et mise en forme</title>
-		<link>http://wptest.fxbenard.com/balises-mise-en-forme/</link>
+		<link>https://wptest.fxbenard.com/balises-mise-en-forme/</link>
 		<pubDate>Sat, 12 Jan 2013 02:22:19 +0000</pubDate>
 		<dc:creator><![CDATA[remicorson]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=919</guid>
@@ -10530,7 +10530,7 @@ Cela vous permet d'indiquer des <var>variables</var>.]]></content:encoded>
 	</item>
 	<item>
 				<title>Extrait</title>
-		<link>http://wptest.fxbenard.com/extrait/</link>
+		<link>https://wptest.fxbenard.com/extrait/</link>
 		<pubDate>Fri, 15 Mar 2013 19:38:08 +0000</pubDate>
 		<dc:creator><![CDATA[benjaminlupu]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=993</guid>
@@ -10570,7 +10570,7 @@ Cela vous permet d'indiquer des <var>variables</var>.]]></content:encoded>
 	</item>
 	<item>
 				<title>Balise more</title>
-		<link>http://wptest.fxbenard.com/balise-more/</link>
+		<link>https://wptest.fxbenard.com/balise-more/</link>
 		<pubDate>Fri, 15 Mar 2013 19:41:11 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=996</guid>
@@ -10608,7 +10608,7 @@ Et ce contenu est après la balise "more".]]></content:encoded>
 	</item>
 	<item>
 				<title>Listes imbriquées et mixtes</title>
-		<link>http://wptest.fxbenard.com/listes-imbriquees-mixtes/</link>
+		<link>https://wptest.fxbenard.com/listes-imbriquees-mixtes/</link>
 		<pubDate>Fri, 15 Mar 2013 19:48:32 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1000</guid>
@@ -10720,7 +10720,7 @@ Et ce contenu est après la balise "more".]]></content:encoded>
 	</item>
 	<item>
 				<title>Image à la une (Horizontale)</title>
-		<link>http://wptest.fxbenard.com/image-une-horizontale/</link>
+		<link>https://wptest.fxbenard.com/image-une-horizontale/</link>
 		<pubDate>Fri, 15 Mar 2013 20:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[remicorson]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1011</guid>
@@ -10806,7 +10806,7 @@ Cet article teste une image à la une horizontale.]]></content:encoded>
 	</item>
 	<item>
 				<title>Image à la une (Verticale)</title>
-		<link>http://wptest.fxbenard.com/image-une-verticale/</link>
+		<link>https://wptest.fxbenard.com/image-une-verticale/</link>
 		<pubDate>Fri, 15 Mar 2013 20:36:32 +0000</pubDate>
 		<dc:creator><![CDATA[jennybeaumont]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1016</guid>
@@ -10884,7 +10884,7 @@ Cet article teste une image à la une verticale.]]></content:encoded>
 	</item>
 	<item>
 				<title>Intégration de Twitter</title>
-		<link>http://wptest.fxbenard.com/twitter-integration/</link>
+		<link>https://wptest.fxbenard.com/twitter-integration/</link>
 		<pubDate>Fri, 15 Mar 2013 20:47:16 +0000</pubDate>
 		<dc:creator><![CDATA[gregoirenoyelle]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1027</guid>
@@ -10959,7 +10959,7 @@ Cet article teste les fonctionnalités d'intégration de <a title="Intégration 
 	</item>
 	<item>
 				<title>Carrousel de photos</title>
-		<link>http://wptest.fxbenard.com/carrousel-photos/</link>
+		<link>https://wptest.fxbenard.com/carrousel-photos/</link>
 		<pubDate>Fri, 15 Mar 2013 22:23:27 +0000</pubDate>
 		<dc:creator><![CDATA[benjaminlupu]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1031</guid>
@@ -11026,7 +11026,7 @@ Juste un peu de texte après la galerie pour vérifier que tout s'espace jolimen
 	</item>
 	<item>
 				<title>Article mis en avant (Sticky)</title>
-		<link>http://wptest.fxbenard.com/sticky/</link>
+		<link>https://wptest.fxbenard.com/sticky/</link>
 		<pubDate>Mon, 07 Jan 2013 13:07:21 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1241</guid>
@@ -11090,10 +11090,10 @@ Il y a quelques trucs à vérifier :
 	</item>
 	<item>
 				<title>Markdown</title>
-		<link>http://wptest.fxbenard.com/markdown/</link>
+		<link>https://wptest.fxbenard.com/markdown/</link>
 		<pubDate>Thu, 10 Jan 2013 15:01:28 +0000</pubDate>
 		<dc:creator><![CDATA[fxbenard]]></dc:creator>
-		<guid isPermaLink="false">http://wptest.fxbenard.com/?p=1419</guid>
+		<guid isPermaLink="false">https://wptest.fxbenard.com/?p=1419</guid>
 		<description></description>
 		<content:encoded><![CDATA[Cet article utilise la syntaxe Markdown. Installez Jetpack ou WP-Markdown, activez le module « Markdown » et admirez le rendu. Bluffant, non !
 
